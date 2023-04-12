@@ -1,17 +1,22 @@
-let generateQuoteBtn = document.querySelector('#generate-quote');
+import data from './data.js';
+console.log(data);
+
+let generateQuoteButtton = document.querySelector('#generate-quote');
+generateQuoteButtton.addEventListener('click', getQuote);
+
 let quoteText = document.querySelector('#quote-text');
 let quoteAuthor = document.querySelector('#quote-author');
 
 let handleCopyClick = document.querySelector('#copy-quote');
 
-generateQuoteBtn.addEventListener('click', () => {
-  fetch('https://api.quotable.io/random')
-    .then((response) => response.json())
-    .then((data) => {
-      quoteText.textContent = data.content;
-      quoteAuthor.textContent = `- ${data.author}`;
-    });
-});
+
+
+function getQuote(){
+  const randomNumber = Math.floor(Math.random() * data.length)
+  const quote = data[randomNumber];
+  quoteText.textContent = quote.content;
+  quoteAuthor.innerHTML = quote.author;
+}  
 
 handleCopyClick.addEventListener('click', () => {
   let text = quoteText.textContent;
