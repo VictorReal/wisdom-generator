@@ -10,7 +10,7 @@ body {
    gap: 25vh;
    background-color:whitesmoke; 
    color: whitesmoke;   
- }
+}
 nav {
   width: 100vw; 
   padding: 15px;
@@ -59,12 +59,11 @@ main {
 
 @media (max-width: 750px){
   main { 
-    height: 55vw;
-    width: 90vw;
-    gap: 1rem; 
+    height: 60vw;
+    width: 90vw; 
   } 
   .quote-container{
-    width: 90vw;   
+    width: 80vw;   
   }
   #git_btn, #cv_btn, #prj_btn {
     width: 22vw;
@@ -75,7 +74,6 @@ main {
   main { 
     height: 17vh;
     width: 40vw; 
-    
     padding: 100px 0px;
   } 
   .quote-container{
