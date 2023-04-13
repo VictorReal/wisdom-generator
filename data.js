@@ -50,18 +50,25 @@ export default [
     {  
         author: 'Іван Багряний',
         content: '“Ліпше вмерти біжучи, ніж жити гниючи”'
+    },
+    {  
+        author: 'Василь Симоненко',
+        content: '“Можна вибрать друга і по духу брата, та не можна рідну матір вибирати”'
+    },
+    {
+        author: 'Василь Симоненко',
+        content:'“Найпрекрасніша мати щаслива, найсолодші кохані вуста, найчистіша душа незрадлива, найскладніша людина проста”'
+    },
+    {
+        author: 'Леся Українка',
+        content: '“Поганий той школяр який учителя не переважить”',
+    },
+    {
+        author: 'Максим Рильський',
+        content: '“Знай, що в світі найтяжче – це серце носити студене!”',
     }
 ]
-
-/* Можна вибрать друга і по духу брата, та не можна рідну матір вибирати
-“Магнат, як магніт, кожен добре знає: Сей залізо, а той золото притягає” (Іван Величковський)
-“У вбогого трохи є,в жебрака нічого. Понад міру в богача, а досить – ні в кого”( Іван Величковський)
-“Ніяка в світі сила нас не зламає, бо нас коріння наше в землі тримає” (Г. Дудка)
-“Як не буде птахів,то і людське серце стане черствішим” (М. Стельмах)
-“Я знаю: мова мамина – свята, в ній вічний, незнищенний дух народу” (М.Адаменко)
-“Найпрекрасніша мати щаслива, найсолодші кохані вуста, найчистіша душа незрадлива, найскладніша людина проста”(В. Симоненко)
-“Поганий той школяр який учителя не переважить” (Леся Українка)
-“Знай, що в світі найтяжче – це серце носити студене!”( М.Рильський)
+/*
 “Той, хто по-справжньому любить свою Батьківщину, з усякого погляду справжня людина” (В. Сухомлинський)
 “Хліб і сіль для друга й брата, а для ката – грім” (В. Коломієць)
 “О мово вкраїнська! Хто любить ії , той любить мою Україну!”( В.Сосюра)
@@ -86,7 +93,8 @@ export default [
 “Діла добрих оновлюються – діла злих гинуть”( Тарас Шевченко)
 “Не завидуй багатому: багатий не знає ні приязні, ні любові…”( Тарас Шевченко)
 “І гнів, і муку неозору співаю я в ці дні журби, коли лакеї йдуть угору й мовчать раби…” ( В. Сосюра)
-*/
+“Ніяка в світі сила нас не зламає, бо нас коріння наше в землі тримає” (Г. Дудка)
+]
 
 
 /*
@@ -105,79 +113,77 @@ export default [
 “Пан гуляв у себе в замку – у ярмі стогнали люди”(Леся Українка)
 
 font-size:12pt">
-<span style="font-family:'Times New Roman'">“Всі великі творіння Данте, Рафаеля, Сервантеса, Шевченка – це теж творіння не пера і пензля, а творіння духу” ( Євген Сверстюк);</span>
+“Всі великі творіння Данте, Рафаеля, Сервантеса, Шевченка – це теж творіння не пера і пензля, а творіння духу” ( Євген Сверстюк);</span>
 </p>
 <p style="margin-top:0pt; margin-bottom:0pt; line-height:normal; font-size:12pt">
-<span style="font-family:'Times New Roman'">“В нас вважається хорошим письменником той, хто гарно себе піарить” (Володимир Лис);</span>
+“В нас вважається хорошим письменником той, хто гарно себе піарить” (Володимир Лис);</span>
 </p>
 <p style="margin-top:0pt; margin-bottom:0pt; line-height:normal; font-size:12pt">
-<span style="font-family:'Times New Roman'">“Мистецтво має людину підтягувати і піднімати, воно не має ії опускати” ( Галина Вдовиченко);</span>
+“Мистецтво має людину підтягувати і піднімати, воно не має ії опускати” ( Галина Вдовиченко);</span>
 </p>
 <p style="margin-top:0pt; margin-bottom:0pt; line-height:normal; font-size:12pt">
-<span style="font-family:'Times New Roman'">“Ми мусимо навчитися чути себе українцями – не галицькими, не буковинськими українцями, а українцями без офіційних кордонів” (Іван Франко);</span>
+“Ми мусимо навчитися чути себе українцями – не галицькими, не буковинськими українцями, а українцями без офіційних кордонів” (Іван Франко);</span>
 </p>
-<p style="margin-top:0pt; margin-bottom:0pt; text-indent:35.45pt; text-align:center; line-height:normal; font-size:12pt; background-color:#ffffff">
 <strong><span style="font-family:'Times New Roman'; ">Про Батьківщину та патріотизм. Про рідну мову, українську пісню.</span></strong>
 </p>
-<p style="margin-top:0pt; margin-bottom:0pt; text-indent:35.45pt; text-align:center; line-height:normal; font-size:12pt; background-color:#ffffff">
-<span style="font-family:'Times New Roman'">&nbsp;</span>
+&nbsp;</span>
 </p>
 <p style="margin-top:0pt; margin-bottom:0pt; text-indent:35.45pt; text-align:justify; line-height:normal; font-size:12pt; background-color:#ffffff">
-<span style="font-family:'Times New Roman'">Люблять батьківщину не за те, що вона велика, а за те, що своя.</span>
+Люблять батьківщину не за те, що вона велика, а за те, що своя.</span>
 </p>
 <p style="margin-top:0pt; margin-bottom:0pt; text-indent:35.45pt; text-align:right; line-height:normal; font-size:12pt; background-color:#ffffff">
 <em><span style="font-family:'Times New Roman'; ">Сенека</span></em>
 </p>
 <p style="margin-top:0pt; margin-bottom:0pt; text-indent:35.45pt; text-align:justify; line-height:normal; font-size:12pt; background-color:#ffffff">
-<span style="font-family:'Times New Roman'">&nbsp;</span>
+&nbsp;</span>
 </p>
 <p style="margin-top:0pt; margin-bottom:0pt; text-indent:35.45pt; text-align:justify; line-height:normal; font-size:12pt; background-color:#ffffff">
-<span style="font-family:'Times New Roman'">Мила нам добра звістка про наш край: вітчизни і дим для нас солодкий.</span>
+Мила нам добра звістка про наш край: вітчизни і дим для нас солодкий.</span>
 </p>
 <p style="margin-top:0pt; margin-bottom:0pt; text-indent:35.45pt; text-align:right; line-height:normal; font-size:12pt; background-color:#ffffff">
 <em><span style="font-family:'Times New Roman'; ">Г. Державін</span></em>
 </p>
 <p style="margin-top:0pt; margin-bottom:0pt; text-indent:35.45pt; text-align:justify; line-height:normal; font-size:12pt; background-color:#ffffff">
-<span style="font-family:'Times New Roman'">&nbsp;</span>
+&nbsp;</span>
 </p>
 <p style="margin-top:0pt; margin-bottom:0pt; text-indent:35.45pt; text-align:justify; line-height:normal; font-size:12pt; background-color:#ffffff">
-<span style="font-family:'Times New Roman'">Той, хто не любить своєї країни, нічого любити не може.</span>
+Той, хто не любить своєї країни, нічого любити не може.</span>
 </p>
 <p style="margin-top:0pt; margin-bottom:0pt; text-indent:35.45pt; text-align:right; line-height:normal; font-size:12pt; background-color:#ffffff">
 <em><span style="font-family:'Times New Roman'; ">Д. Байрон</span></em>
 </p>
 <p style="margin-top:0pt; margin-bottom:0pt; text-indent:35.45pt; text-align:justify; line-height:normal; font-size:12pt; background-color:#ffffff">
-<span style="font-family:'Times New Roman'">&nbsp;</span>
+&nbsp;</span>
 </p>
 <p style="margin-top:0pt; margin-bottom:0pt; text-indent:35.45pt; text-align:justify; line-height:normal; font-size:12pt; background-color:#ffffff">
-<span style="font-family:'Times New Roman'">Хто не належить вітчизні своїй, той не належить і людству.</span>
+Хто не належить вітчизні своїй, той не належить і людству.</span>
 </p>
 <p style="margin-top:0pt; margin-bottom:0pt; text-indent:35.45pt; text-align:right; line-height:normal; font-size:12pt; background-color:#ffffff">
 <em><span style="font-family:'Times New Roman'; ">В. Бєлінський</span></em>
 </p>
 <p style="margin-top:0pt; margin-bottom:0pt; text-indent:35.45pt; text-align:justify; line-height:normal; font-size:12pt; background-color:#ffffff">
-<span style="font-family:'Times New Roman'">&nbsp;</span>
+&nbsp;</span>
 </p>
 <p style="margin-top:0pt; margin-bottom:0pt; text-indent:35.45pt; text-align:justify; line-height:normal; font-size:12pt; background-color:#ffffff">
-<span style="font-family:'Times New Roman'">Усвідомлена любов до свого народу не поєднується з ненавистю до інших.</span>
+Усвідомлена любов до свого народу не поєднується з ненавистю до інших.</span>
 </p>
 <p style="margin-top:0pt; margin-bottom:0pt; text-indent:35.45pt; text-align:right; line-height:normal; font-size:12pt; background-color:#ffffff">
 <em><span style="font-family:'Times New Roman'; ">Д. Лихачев</span></em>
 </p>
 <p style="margin-top:0pt; margin-bottom:0pt; text-indent:35.45pt; text-align:justify; line-height:normal; font-size:12pt; background-color:#ffffff">
-<span style="font-family:'Times New Roman'">&nbsp;</span>
+&nbsp;</span>
 </p>
 <p style="margin-top:0pt; margin-bottom:0pt; text-indent:35.45pt; text-align:justify; line-height:normal; font-size:12pt; background-color:#ffffff">
-<span style="font-family:'Times New Roman'">Багато хто схильний плутати два поняття: «вітчизна» і «ваше превосходи</span><span style="font-family:'Times New Roman'">­</span><span style="font-family:'Times New Roman'">тельство».</span>
+Багато хто схильний плутати два поняття: «вітчизна» і «ваше превосходи</span>­</span>тельство».</span>
 </p>
 <p style="margin-top:0pt; margin-bottom:0pt; text-indent:35.45pt; text-align:right; line-height:normal; font-size:12pt; background-color:#ffffff">
 <em><span style="font-family:'Times New Roman'; ">М. Салтиков-Щедрін</span></em>
 </p>
 <p style="margin-top:0pt; margin-bottom:0pt; text-indent:35.45pt; text-align:right; line-height:normal; font-size:12pt; background-color:#ffffff">
-<span style="font-family:'Times New Roman'">&nbsp;</span>
+&nbsp;</span>
 </p>
 <p style="margin-top:0pt; margin-bottom:0pt; text-indent:35.45pt; text-align:justify; line-height:normal; font-size:12pt; background-color:#ffffff">
-<span style="font-family:'Times New Roman'">Для нас дорогі батьки, дорогі діти, близькі, родичі; але всі уявлення про лю</span><span style="font-family:'Times New Roman'">­</span><span style="font-family:'Times New Roman'">бов до чого-небудь поєднані в одному слові «вітчизна».</span>
+Для нас дорогі батьки, дорогі діти, близькі, родичі; але всі уявлення про лю</span>­</span>бов до чого-небудь поєднані в одному слові «вітчизна».</span>
 </p>
 <p style="margin-top:0pt; margin-bottom:0pt; text-indent:35.45pt; text-align:right; line-height:normal; font-size:12pt; background-color:#ffffff">
 <em><span style="font-family:'Times New Roman'; ">Цицерон</span></em>
@@ -186,493 +192,493 @@ font-size:12pt">
 <em><span style="font-family:'Times New Roman'; ">&nbsp;</span></em>
 </p>
 <p style="margin-top:0pt; margin-bottom:0pt; text-indent:35.45pt; text-align:right; line-height:normal; font-size:12pt; background-color:#ffffff">
-<span style="font-family:'Times New Roman'">&nbsp;</span>
+&nbsp;</span>
 </p>
 <p style="margin-top:0pt; margin-bottom:0pt; text-indent:35.45pt; text-align:justify; line-height:normal; font-size:12pt; background-color:#ffffff">
-<span style="font-family:'Times New Roman'">Забудеш рідний край — твоє всохне коріння.</span>
+Забудеш рідний край — твоє всохне коріння.</span>
 </p>
 <p style="margin-top:0pt; margin-bottom:0pt; text-indent:35.45pt; text-align:right; line-height:normal; font-size:12pt; background-color:#ffffff">
 <em><span style="font-family:'Times New Roman'; ">П. Тичина</span></em>
 </p>
 <p style="margin-top:0pt; margin-bottom:0pt; text-indent:35.45pt; text-align:right; line-height:normal; font-size:12pt; background-color:#ffffff">
-<span style="font-family:'Times New Roman'">&nbsp;</span>
+&nbsp;</span>
 </p>
 <p style="margin-top:0pt; margin-bottom:0pt; text-indent:35.45pt; text-align:justify; line-height:normal; font-size:12pt; background-color:#ffffff">
-<span style="font-family:'Times New Roman'">Патріотизм — це не любов до ідеї, а любов до вітчизни.</span>
+Патріотизм — це не любов до ідеї, а любов до вітчизни.</span>
 </p>
 <p style="margin-top:0pt; margin-bottom:0pt; text-indent:35.45pt; text-align:right; line-height:normal; font-size:12pt; background-color:#ffffff">
 <em><span style="font-family:'Times New Roman'; ">В. Распутін</span></em>
 </p>
 <p style="margin-top:0pt; margin-bottom:0pt; text-indent:35.45pt; text-align:right; line-height:normal; font-size:12pt; background-color:#ffffff">
-<span style="font-family:'Times New Roman'">&nbsp;</span>
+&nbsp;</span>
 </p>
 <p style="margin-top:0pt; margin-bottom:0pt; text-indent:35.45pt; text-align:justify; line-height:normal; font-size:12pt; background-color:#ffffff">
-<span style="font-family:'Times New Roman'">Той, хто в біді кидає свій народ, стає його ворогом.</span>
+Той, хто в біді кидає свій народ, стає його ворогом.</span>
 </p>
 <p style="margin-top:0pt; margin-bottom:0pt; text-indent:35.45pt; text-align:right; line-height:normal; font-size:12pt; background-color:#ffffff">
 <em><span style="font-family:'Times New Roman'; ">Ч. Айтматов</span></em>
 </p>
 <p style="margin-top:0pt; margin-bottom:0pt; text-indent:35.45pt; text-align:right; line-height:normal; font-size:12pt; background-color:#ffffff">
-<span style="font-family:'Times New Roman'">&nbsp;</span>
+&nbsp;</span>
 </p>
 <p style="margin-top:0pt; margin-bottom:0pt; text-indent:35.45pt; text-align:justify; line-height:normal; font-size:12pt; background-color:#ffffff">
-<span style="font-family:'Times New Roman'">Де немає свободи, там немає і вітчизни.</span>
+Де немає свободи, там немає і вітчизни.</span>
 </p>
 <p style="margin-top:0pt; margin-bottom:0pt; text-indent:35.45pt; text-align:right; line-height:normal; font-size:12pt; background-color:#ffffff">
 <em><span style="font-family:'Times New Roman'; ">П. Гольбах</span></em>
 </p>
 <p style="margin-top:0pt; margin-bottom:0pt; text-indent:35.45pt; text-align:right; line-height:normal; font-size:12pt; background-color:#ffffff">
-<span style="font-family:'Times New Roman'">&nbsp;</span>
+&nbsp;</span>
 </p>
 <p style="margin-top:0pt; margin-bottom:0pt; text-indent:35.45pt; text-align:justify; line-height:normal; font-size:12pt; background-color:#ffffff">
-<span style="font-family:'Times New Roman'">Задля батьківщини треба жертвувати навіть славою.</span>
+Задля батьківщини треба жертвувати навіть славою.</span>
 </p>
 <p style="margin-top:0pt; margin-bottom:0pt; text-indent:35.45pt; text-align:right; line-height:normal; font-size:12pt; background-color:#ffffff">
 <em><span style="font-family:'Times New Roman'; ">Латинське прислів’я</span></em>
 </p>
 <p style="margin-top:0pt; margin-bottom:0pt; text-indent:35.45pt; text-align:right; line-height:normal; font-size:12pt; background-color:#ffffff">
-<span style="font-family:'Times New Roman'">&nbsp;</span>
+&nbsp;</span>
 </p>
 <p style="margin-top:0pt; margin-bottom:0pt; text-indent:35.45pt; text-align:justify; line-height:normal; font-size:12pt; background-color:#ffffff">
-<span style="font-family:'Times New Roman'">Хто батьківщині добре слугує — вельможних предків не потребує.</span>
+Хто батьківщині добре слугує — вельможних предків не потребує.</span>
 </p>
 <p style="margin-top:0pt; margin-bottom:0pt; text-indent:35.45pt; text-align:right; line-height:normal; font-size:12pt; background-color:#ffffff">
 <em><span style="font-family:'Times New Roman'; ">Французьке прислів’я</span></em>
 </p>
 <p style="margin-top:0pt; margin-bottom:0pt; text-indent:35.45pt; text-align:right; line-height:normal; font-size:12pt; background-color:#ffffff">
-<span style="font-family:'Times New Roman'">&nbsp;</span>
+&nbsp;</span>
 </p>
 <p style="margin-top:0pt; margin-bottom:0pt; text-indent:35.45pt; text-align:justify; line-height:normal; font-size:12pt; background-color:#ffffff">
-<span style="font-family:'Times New Roman'">В дитинстві відкриваєш материк, котрий назветься потім — Батьківщина.</span>
+В дитинстві відкриваєш материк, котрий назветься потім — Батьківщина.</span>
 </p>
 <p style="margin-top:0pt; margin-bottom:0pt; text-indent:35.45pt; text-align:right; line-height:normal; font-size:12pt; background-color:#ffffff">
 <em><span style="font-family:'Times New Roman'; ">Л. Костенко</span></em>
 </p>
 <p style="margin-top:0pt; margin-bottom:0pt; text-indent:35.45pt; text-align:right; line-height:normal; font-size:12pt; background-color:#ffffff">
-<span style="font-family:'Times New Roman'">&nbsp;</span>
+&nbsp;</span>
 </p>
 <p style="margin-top:0pt; margin-bottom:0pt; text-indent:35.45pt; text-align:justify; line-height:normal; font-size:12pt; background-color:#ffffff">
-<span style="font-family:'Times New Roman'">В своїй хаті своя й правда, І сила, і воля.</span>
+В своїй хаті своя й правда, І сила, і воля.</span>
 </p>
 <p style="margin-top:0pt; margin-bottom:0pt; text-indent:35.45pt; text-align:right; line-height:normal; font-size:12pt; background-color:#ffffff">
 <em><span style="font-family:'Times New Roman'; ">Т. Шевченко</span></em>
 </p>
 <p style="margin-top:0pt; margin-bottom:0pt; text-indent:35.45pt; text-align:right; line-height:normal; font-size:12pt; background-color:#ffffff">
-<span style="font-family:'Times New Roman'">&nbsp;</span>
+&nbsp;</span>
 </p>
 <p style="margin-top:0pt; margin-bottom:0pt; text-indent:35.45pt; text-align:justify; line-height:normal; font-size:12pt; background-color:#ffffff">
-<span style="font-family:'Times New Roman'">Вітчизна — ось і альфа, і омега!</span>
+Вітчизна — ось і альфа, і омега!</span>
 </p>
 <p style="margin-top:0pt; margin-bottom:0pt; text-indent:35.45pt; text-align:right; line-height:normal; font-size:12pt; background-color:#ffffff">
 <em><span style="font-family:'Times New Roman'; ">Д. Павличко</span></em>
 </p>
 <p style="margin-top:0pt; margin-bottom:0pt; text-indent:35.45pt; text-align:right; line-height:normal; font-size:12pt; background-color:#ffffff">
-<span style="font-family:'Times New Roman'">&nbsp;</span>
+&nbsp;</span>
 </p>
 <p style="margin-top:0pt; margin-bottom:0pt; text-indent:35.45pt; text-align:justify; line-height:normal; font-size:12pt; background-color:#ffffff">
-<span style="font-family:'Times New Roman'">Вітчизна — це не хтось і десь, Я — теж Вітчизна.</span>
+Вітчизна — це не хтось і десь, Я — теж Вітчизна.</span>
 </p>
 <p style="margin-top:0pt; margin-bottom:0pt; text-indent:35.45pt; text-align:right; line-height:normal; font-size:12pt; background-color:#ffffff">
-<span style="font-family:'Times New Roman'">/. </span><em><span style="font-family:'Times New Roman'; ">Світличний</span></em>
+/. </span><em><span style="font-family:'Times New Roman'; ">Світличний</span></em>
 </p>
 <p style="margin-top:0pt; margin-bottom:0pt; text-indent:35.45pt; text-align:right; line-height:normal; font-size:12pt; background-color:#ffffff">
-<span style="font-family:'Times New Roman'">&nbsp;</span>
+&nbsp;</span>
 </p>
 <p style="margin-top:0pt; margin-bottom:0pt; text-indent:35.45pt; text-align:justify; line-height:normal; font-size:12pt; background-color:#ffffff">
-<span style="font-family:'Times New Roman'">Дзвін шабель, пісні, походи, воля соколина, тихі зорі, ясні води — моя Україна.</span>
+Дзвін шабель, пісні, походи, воля соколина, тихі зорі, ясні води — моя Україна.</span>
 </p>
 <p style="margin-top:0pt; margin-bottom:0pt; text-indent:35.45pt; text-align:right; line-height:normal; font-size:12pt; background-color:#ffffff">
 <em><span style="font-family:'Times New Roman'; ">В. Сосюра</span></em>
 </p>
 <p style="margin-top:0pt; margin-bottom:0pt; text-indent:35.45pt; text-align:right; line-height:normal; font-size:12pt; background-color:#ffffff">
-<span style="font-family:'Times New Roman'">&nbsp;</span>
+&nbsp;</span>
 </p>
 <p style="margin-top:0pt; margin-bottom:0pt; text-indent:35.45pt; text-align:justify; line-height:normal; font-size:12pt; background-color:#ffffff">
-<span style="font-family:'Times New Roman'">І дим батьківщини солодкий.</span>
+І дим батьківщини солодкий.</span>
 </p>
 <p style="margin-top:0pt; margin-bottom:0pt; text-indent:35.45pt; text-align:right; line-height:normal; font-size:12pt; background-color:#ffffff">
 <em><span style="font-family:'Times New Roman'; ">Овідій</span></em>
 </p>
 <p style="margin-top:0pt; margin-bottom:0pt; text-indent:35.45pt; text-align:right; line-height:normal; font-size:12pt; background-color:#ffffff">
-<span style="font-family:'Times New Roman'">&nbsp;</span>
+&nbsp;</span>
 </p>
 <p style="margin-top:0pt; margin-bottom:0pt; text-indent:35.45pt; text-align:justify; line-height:normal; font-size:12pt; background-color:#ffffff">
-<span style="font-family:'Times New Roman'">Кожному мила своя сторона.</span>
+Кожному мила своя сторона.</span>
 </p>
 <p style="margin-top:0pt; margin-bottom:0pt; text-indent:35.45pt; text-align:right; line-height:normal; font-size:12pt; background-color:#ffffff">
 <em><span style="font-family:'Times New Roman'; ">Г. Сковорода</span></em>
 </p>
 <p style="margin-top:0pt; margin-bottom:0pt; text-indent:35.45pt; text-align:right; line-height:normal; font-size:12pt; background-color:#ffffff">
-<span style="font-family:'Times New Roman'">&nbsp;</span>
+&nbsp;</span>
 </p>
 <p style="margin-top:0pt; margin-bottom:0pt; text-indent:35.45pt; text-align:justify; line-height:normal; font-size:12pt; background-color:#ffffff">
-<span style="font-family:'Times New Roman'">Любіть Україну у сні й наяву, вишневу свою Україну, красу її вічно живу і нову і мову її солов'їну.</span>
+Любіть Україну у сні й наяву, вишневу свою Україну, красу її вічно живу і нову і мову її солов'їну.</span>
 </p>
 <p style="margin-top:0pt; margin-bottom:0pt; text-indent:35.45pt; text-align:right; line-height:normal; font-size:12pt; background-color:#ffffff">
 <em><span style="font-family:'Times New Roman'; ">В. Сосюра</span></em>
 </p>
 <p style="margin-top:0pt; margin-bottom:0pt; text-indent:35.45pt; text-align:right; line-height:normal; font-size:12pt; background-color:#ffffff">
-<span style="font-family:'Times New Roman'">&nbsp;</span>
+&nbsp;</span>
 </p>
 <p style="margin-top:0pt; margin-bottom:0pt; text-indent:35.45pt; text-align:justify; line-height:normal; font-size:12pt; background-color:#ffffff">
-<span style="font-family:'Times New Roman'">Можеш вибирати друзів і дружину, Вибрати не можна тільки Батьківщину.</span>
+Можеш вибирати друзів і дружину, Вибрати не можна тільки Батьківщину.</span>
 </p>
 <p style="margin-top:0pt; margin-bottom:0pt; text-indent:35.45pt; text-align:right; line-height:normal; font-size:12pt; background-color:#ffffff">
 <em><span style="font-family:'Times New Roman'; ">В. Симоненко</span></em>
 </p>
 <p style="margin-top:0pt; margin-bottom:0pt; text-indent:35.45pt; text-align:right; line-height:normal; font-size:12pt; background-color:#ffffff">
-<span style="font-family:'Times New Roman'">&nbsp;</span>
+&nbsp;</span>
 </p>
 <p style="margin-top:0pt; margin-bottom:0pt; text-indent:35.45pt; text-align:justify; line-height:normal; font-size:12pt; background-color:#ffffff">
-<span style="font-family:'Times New Roman'">Народе мій, як добре те, Що ти у мене є на світі.</span>
+Народе мій, як добре те, Що ти у мене є на світі.</span>
 </p>
 <p style="margin-top:0pt; margin-bottom:0pt; text-indent:35.45pt; text-align:right; line-height:normal; font-size:12pt; background-color:#ffffff">
 <em><span style="font-family:'Times New Roman'; ">М. Вінграновський</span></em>
 </p>
 <p style="margin-top:0pt; margin-bottom:0pt; text-indent:35.45pt; text-align:right; line-height:normal; font-size:12pt; background-color:#ffffff">
-<span style="font-family:'Times New Roman'">&nbsp;</span>
+&nbsp;</span>
 </p>
 <p style="margin-top:0pt; margin-bottom:0pt; text-indent:35.45pt; text-align:justify; line-height:normal; font-size:12pt; background-color:#ffffff">
-<span style="font-family:'Times New Roman'">Нема на світі України, Немає другого Дніпра.</span>
+Нема на світі України, Немає другого Дніпра.</span>
 </p>
 <p style="margin-top:0pt; margin-bottom:0pt; text-indent:35.45pt; text-align:right; line-height:normal; font-size:12pt; background-color:#ffffff">
 <em><span style="font-family:'Times New Roman'; ">Т. Шевченко</span></em>
 </p>
 <p style="margin-top:0pt; margin-bottom:0pt; text-indent:35.45pt; text-align:right; line-height:normal; font-size:12pt; background-color:#ffffff">
-<span style="font-family:'Times New Roman'">&nbsp;</span>
+&nbsp;</span>
 </p>
 <p style="margin-top:0pt; margin-bottom:0pt; text-indent:35.45pt; text-align:justify; line-height:normal; font-size:12pt; background-color:#ffffff">
-<span style="font-family:'Times New Roman'">Свою Україну любіть. Любіть її... Во врем'я люте. В останню тяжкую минуту За неї Господа моліть.</span>
+Свою Україну любіть. Любіть її... Во врем'я люте. В останню тяжкую минуту За неї Господа моліть.</span>
 </p>
 <p style="margin-top:0pt; margin-bottom:0pt; text-indent:35.45pt; text-align:right; line-height:normal; font-size:12pt; background-color:#ffffff">
 <em><span style="font-family:'Times New Roman'; ">Т. Шевченко</span></em>
 </p>
 <p style="margin-top:0pt; margin-bottom:0pt; text-indent:35.45pt; text-align:right; line-height:normal; font-size:12pt; background-color:#ffffff">
-<span style="font-family:'Times New Roman'">&nbsp;</span>
+&nbsp;</span>
 </p>
 <p style="margin-top:0pt; margin-bottom:0pt; text-indent:35.45pt; text-align:justify; line-height:normal; font-size:12pt; background-color:#ffffff">
-<span style="font-family:'Times New Roman'">Ті, що виїздять за море, міняють небо, а не душу.</span>
+Ті, що виїздять за море, міняють небо, а не душу.</span>
 </p>
 <p style="margin-top:0pt; margin-bottom:0pt; text-indent:35.45pt; text-align:right; line-height:normal; font-size:12pt; background-color:#ffffff">
 <em><span style="font-family:'Times New Roman'; ">Горацій</span></em>
 </p>
 <p style="margin-top:0pt; margin-bottom:0pt; text-indent:35.45pt; text-align:right; line-height:normal; font-size:12pt; background-color:#ffffff">
-<span style="font-family:'Times New Roman'">&nbsp;</span>
+&nbsp;</span>
 </p>
 <p style="margin-top:0pt; margin-bottom:0pt; text-indent:35.45pt; text-align:justify; line-height:normal; font-size:12pt; background-color:#ffffff">
-<span style="font-family:'Times New Roman'">Тобі, Україно моя, і перший мій подих, і подих останній тобі.</span>
+Тобі, Україно моя, і перший мій подих, і подих останній тобі.</span>
 </p>
 <p style="margin-top:0pt; margin-bottom:0pt; text-indent:35.45pt; text-align:right; line-height:normal; font-size:12pt; background-color:#ffffff">
 <em><span style="font-family:'Times New Roman'; ">В. Еллан</span></em>
 </p>
 <p style="margin-top:0pt; margin-bottom:0pt; text-indent:35.45pt; text-align:right; line-height:normal; font-size:12pt; background-color:#ffffff">
-<span style="font-family:'Times New Roman'">&nbsp;</span>
+&nbsp;</span>
 </p>
 <p style="margin-top:0pt; margin-bottom:0pt; text-indent:35.45pt; text-align:justify; line-height:normal; font-size:12pt; background-color:#ffffff">
-<span style="font-family:'Times New Roman'">Ще не вмерла України і слава, і воля...</span>
+Ще не вмерла України і слава, і воля...</span>
 </p>
 <p style="margin-top:0pt; margin-bottom:0pt; text-indent:35.45pt; text-align:right; line-height:normal; font-size:12pt; background-color:#ffffff">
 <em><span style="font-family:'Times New Roman'; ">П. Чубинський</span></em>
 </p>
 <p style="margin-top:0pt; margin-bottom:0pt; text-indent:35.45pt; text-align:right; line-height:normal; font-size:12pt; background-color:#ffffff">
-<span style="font-family:'Times New Roman'">&nbsp;</span>
+&nbsp;</span>
 </p>
 <p style="margin-top:0pt; margin-bottom:0pt; text-indent:35.45pt; text-align:justify; line-height:normal; font-size:12pt; background-color:#ffffff">
-<span style="font-family:'Times New Roman'">Шматок землі, ти звешся Україною. Ти був до нас. Ти будеш після нас.</span>
+Шматок землі, ти звешся Україною. Ти був до нас. Ти будеш після нас.</span>
 </p>
 <p style="margin-top:0pt; margin-bottom:0pt; text-indent:35.45pt; text-align:right; line-height:normal; font-size:12pt; background-color:#ffffff">
 <em><span style="font-family:'Times New Roman'; ">Л. Костенко</span></em>
 </p>
 <p style="margin-top:0pt; margin-bottom:0pt; text-indent:35.45pt; text-align:right; line-height:normal; font-size:12pt; background-color:#ffffff">
-<span style="font-family:'Times New Roman'">&nbsp;</span>
+&nbsp;</span>
 </p>
 <p style="margin-top:0pt; margin-bottom:0pt; text-indent:35.45pt; text-align:justify; line-height:normal; font-size:12pt; background-color:#ffffff">
-<span style="font-family:'Times New Roman'">А ти, моя Україно, Безталанна вдово.</span>
+А ти, моя Україно, Безталанна вдово.</span>
 </p>
 <p style="margin-top:0pt; margin-bottom:0pt; text-indent:35.45pt; text-align:right; line-height:normal; font-size:12pt; background-color:#ffffff">
 <em><span style="font-family:'Times New Roman'; ">Т. Шевченко</span></em>
 </p>
 <p style="margin-top:0pt; margin-bottom:0pt; text-indent:35.45pt; text-align:right; line-height:normal; font-size:12pt; background-color:#ffffff">
-<span style="font-family:'Times New Roman'">&nbsp;</span>
+&nbsp;</span>
 </p>
 <p style="margin-top:0pt; margin-bottom:0pt; text-indent:35.45pt; text-align:justify; line-height:normal; font-size:12pt; background-color:#ffffff">
-<span style="font-family:'Times New Roman'">Для всіх ти мертва і смішна, Для всіх ти бідна і нещасна, Моя Україно прекрасна, Пісень і волі сторона.</span>
+Для всіх ти мертва і смішна, Для всіх ти бідна і нещасна, Моя Україно прекрасна, Пісень і волі сторона.</span>
 </p>
 <p style="margin-top:0pt; margin-bottom:0pt; text-indent:35.45pt; text-align:right; line-height:normal; font-size:12pt; background-color:#ffffff">
 <em><span style="font-family:'Times New Roman'; ">Олександр Олесь</span></em>
 </p>
 <p style="margin-top:0pt; margin-bottom:0pt; text-indent:35.45pt; text-align:right; line-height:normal; font-size:12pt; background-color:#ffffff">
-<span style="font-family:'Times New Roman'">&nbsp;</span>
+&nbsp;</span>
 </p>
 <p style="margin-top:0pt; margin-bottom:0pt; text-indent:35.45pt; text-align:justify; line-height:normal; font-size:12pt; background-color:#ffffff">
-<span style="font-family:'Times New Roman'">Добридень же, новий годе, В торішній свитині. Що ти несеш в Україну В латаній торбині?</span>
+Добридень же, новий годе, В торішній свитині. Що ти несеш в Україну В латаній торбині?</span>
 </p>
 <p style="margin-top:0pt; margin-bottom:0pt; text-indent:35.45pt; text-align:right; line-height:normal; font-size:12pt; background-color:#ffffff">
 <em><span style="font-family:'Times New Roman'; ">Т. Шевченко</span></em>
 </p>
 <p style="margin-top:0pt; margin-bottom:0pt; text-indent:35.45pt; text-align:right; line-height:normal; font-size:12pt; background-color:#ffffff">
-<span style="font-family:'Times New Roman'">&nbsp;</span>
+&nbsp;</span>
 </p>
 <p style="margin-top:0pt; margin-bottom:0pt; text-indent:35.45pt; text-align:justify; line-height:normal; font-size:12pt; background-color:#ffffff">
-<span style="font-family:'Times New Roman'">Жива душа народна, жива, неподоланна!</span>
+Жива душа народна, жива, неподоланна!</span>
 </p>
 <p style="margin-top:0pt; margin-bottom:0pt; text-indent:35.45pt; text-align:right; line-height:normal; font-size:12pt; background-color:#ffffff">
 <em><span style="font-family:'Times New Roman'; ">О. Довженко</span></em>
 </p>
 <p style="margin-top:0pt; margin-bottom:0pt; text-indent:35.45pt; text-align:right; line-height:normal; font-size:12pt; background-color:#ffffff">
-<span style="font-family:'Times New Roman'">&nbsp;</span>
+&nbsp;</span>
 </p>
 <p style="margin-top:0pt; margin-bottom:0pt; text-indent:35.45pt; text-align:justify; line-height:normal; font-size:12pt; background-color:#ffffff">
-<span style="font-family:'Times New Roman'">Земле, поорана горем, Лихом засіяна чорним!</span>
+Земле, поорана горем, Лихом засіяна чорним!</span>
 </p>
 <p style="margin-top:0pt; margin-bottom:0pt; text-indent:35.45pt; text-align:right; line-height:normal; font-size:12pt; background-color:#ffffff">
 <em><span style="font-family:'Times New Roman'; ">М. Рильський</span></em>
 </p>
 <p style="margin-top:0pt; margin-bottom:0pt; text-indent:35.45pt; text-align:right; line-height:normal; font-size:12pt; background-color:#ffffff">
-<span style="font-family:'Times New Roman'">&nbsp;</span>
+&nbsp;</span>
 </p>
 <p style="margin-top:0pt; margin-bottom:0pt; text-indent:35.45pt; text-align:justify; line-height:normal; font-size:12pt; background-color:#ffffff">
-<span style="font-family:'Times New Roman'">Народ мій є! Народ мій завжди буде! Ніхто не перекреслить мій народ!</span>
+Народ мій є! Народ мій завжди буде! Ніхто не перекреслить мій народ!</span>
 </p>
 <p style="margin-top:0pt; margin-bottom:0pt; text-indent:35.45pt; text-align:right; line-height:normal; font-size:12pt; background-color:#ffffff">
 <em><span style="font-family:'Times New Roman'; ">В. Симоненко</span></em>
 </p>
 <p style="margin-top:0pt; margin-bottom:0pt; text-indent:35.45pt; text-align:right; line-height:normal; font-size:12pt; background-color:#ffffff">
-<span style="font-family:'Times New Roman'">&nbsp;</span>
+&nbsp;</span>
 </p>
 <p style="margin-top:0pt; margin-bottom:0pt; text-indent:35.45pt; text-align:justify; line-height:normal; font-size:12pt; background-color:#ffffff">
-<span style="font-family:'Times New Roman'">Я єсть народ, якого Правди сила ніким звойована ще не була.</span>
+Я єсть народ, якого Правди сила ніким звойована ще не була.</span>
 </p>
 <p style="margin-top:0pt; margin-bottom:0pt; text-indent:35.45pt; text-align:right; line-height:normal; font-size:12pt; background-color:#ffffff">
 <em><span style="font-family:'Times New Roman'; ">П. Тичина</span></em>
 </p>
 <p style="margin-top:0pt; margin-bottom:0pt; text-indent:35.45pt; text-align:right; line-height:normal; font-size:12pt; background-color:#ffffff">
-<span style="font-family:'Times New Roman'">&nbsp;</span>
+&nbsp;</span>
 </p>
 <p style="margin-top:0pt; margin-bottom:0pt; text-indent:35.45pt; text-align:justify; line-height:normal; font-size:12pt; background-color:#ffffff">
-<span style="font-family:'Times New Roman'">Я знаю вас, нащадки запорожців, Я вірю вам і низько б'ю чолом. Дивлюсь на вас і вірою займаюсь, І б'ю поламаним крилом.</span>
+Я знаю вас, нащадки запорожців, Я вірю вам і низько б'ю чолом. Дивлюсь на вас і вірою займаюсь, І б'ю поламаним крилом.</span>
 </p>
 <p style="margin-top:0pt; margin-bottom:0pt; text-indent:35.45pt; text-align:right; line-height:normal; font-size:12pt; background-color:#ffffff">
 <em><span style="font-family:'Times New Roman'; ">Олександр Олесь</span></em>
 </p>
 <p style="margin-top:0pt; margin-bottom:0pt; text-indent:35.45pt; text-align:right; line-height:normal; font-size:12pt; background-color:#ffffff">
-<span style="font-family:'Times New Roman'">&nbsp;</span>
+&nbsp;</span>
 </p>
 <p style="margin-top:0pt; margin-bottom:0pt; text-indent:35.45pt; text-align:justify; line-height:normal; font-size:12pt; background-color:#ffffff">
-<em><span style="font-family:'Times New Roman'; ">&lt;...&gt; </span></em><span style="font-family:'Times New Roman'">без усякої іншої науки ще можна обійтися, без знання рідної мови обі</span><span style="font-family:'Times New Roman'">­</span><span style="font-family:'Times New Roman'">йтися не можна.</span>
+<em><span style="font-family:'Times New Roman'; ">&lt;...&gt; </span></em>без усякої іншої науки ще можна обійтися, без знання рідної мови обі</span>­</span>йтися не можна.</span>
 </p>
 <p style="margin-top:0pt; margin-bottom:0pt; text-indent:35.45pt; text-align:right; line-height:normal; font-size:12pt; background-color:#ffffff">
-<span style="font-family:'Times New Roman'">/. </span><em><span style="font-family:'Times New Roman'; ">Срезневський</span></em>
+/. </span><em><span style="font-family:'Times New Roman'; ">Срезневський</span></em>
 </p>
 <p style="margin-top:0pt; margin-bottom:0pt; text-indent:35.45pt; text-align:right; line-height:normal; font-size:12pt; background-color:#ffffff">
-<span style="font-family:'Times New Roman'">&nbsp;</span>
+&nbsp;</span>
 </p>
 <p style="margin-top:0pt; margin-bottom:0pt; text-indent:35.45pt; text-align:justify; line-height:normal; font-size:12pt; background-color:#ffffff">
-<span style="font-family:'Times New Roman'">Бринить-співає наша мова, Чарує, тішить і п'янить.</span>
+Бринить-співає наша мова, Чарує, тішить і п'янить.</span>
 </p>
 <p style="margin-top:0pt; margin-bottom:0pt; text-indent:35.45pt; text-align:right; line-height:normal; font-size:12pt; background-color:#ffffff">
 <em><span style="font-family:'Times New Roman'; ">Олександр Олесь</span></em>
 </p>
 <p style="margin-top:0pt; margin-bottom:0pt; text-indent:35.45pt; text-align:right; line-height:normal; font-size:12pt; background-color:#ffffff">
-<span style="font-family:'Times New Roman'">&nbsp;</span>
+&nbsp;</span>
 </p>
 <p style="margin-top:0pt; margin-bottom:0pt; text-indent:35.45pt; text-align:justify; line-height:normal; font-size:12pt; background-color:#ffffff">
-<span style="font-family:'Times New Roman'">В землі віки лежала мова І врешті вибилась на світ.</span>
+В землі віки лежала мова І врешті вибилась на світ.</span>
 </p>
 <p style="margin-top:0pt; margin-bottom:0pt; text-indent:35.45pt; text-align:justify; line-height:normal; font-size:12pt; background-color:#ffffff">
-<span style="font-family:'Times New Roman'">О мово, ночі колискова! Прийми мій радісний привіт.</span>
+О мово, ночі колискова! Прийми мій радісний привіт.</span>
 </p>
 <p style="margin-top:0pt; margin-bottom:0pt; text-indent:35.45pt; text-align:right; line-height:normal; font-size:12pt; background-color:#ffffff">
 <em><span style="font-family:'Times New Roman'; ">Олександр Олесь</span></em>
 </p>
 <p style="margin-top:0pt; margin-bottom:0pt; text-indent:35.45pt; text-align:right; line-height:normal; font-size:12pt; background-color:#ffffff">
-<span style="font-family:'Times New Roman'">&nbsp;</span>
+&nbsp;</span>
 </p>
 <p style="margin-top:0pt; margin-bottom:0pt; text-indent:35.45pt; text-align:justify; line-height:normal; font-size:12pt; background-color:#ffffff">
-<span style="font-family:'Times New Roman'">Відчуваю й усвідомлюю, яка це красива й легка мова.</span>
+Відчуваю й усвідомлюю, яка це красива й легка мова.</span>
 </p>
 <p style="margin-top:0pt; margin-bottom:0pt; text-indent:35.45pt; text-align:right; line-height:normal; font-size:12pt; background-color:#ffffff">
-<span style="font-family:'Times New Roman'">І. </span><em><span style="font-family:'Times New Roman'; ">Репін</span></em>
+І. </span><em><span style="font-family:'Times New Roman'; ">Репін</span></em>
 </p>
 <p style="margin-top:0pt; margin-bottom:0pt; text-indent:35.45pt; text-align:right; line-height:normal; font-size:12pt; background-color:#ffffff">
-<span style="font-family:'Times New Roman'">&nbsp;</span>
+&nbsp;</span>
 </p>
 <p style="margin-top:0pt; margin-bottom:0pt; text-indent:35.45pt; text-align:justify; line-height:normal; font-size:12pt; background-color:#ffffff">
-<span style="font-family:'Times New Roman'">Дивуєшся дорогоцінності мови нашої: в ній що не звук, то подарунок, все крупно, зернисто, як самі перла.</span>
+Дивуєшся дорогоцінності мови нашої: в ній що не звук, то подарунок, все крупно, зернисто, як самі перла.</span>
 </p>
 <p style="margin-top:0pt; margin-bottom:0pt; text-indent:35.45pt; text-align:right; line-height:normal; font-size:12pt; background-color:#ffffff">
 <em><span style="font-family:'Times New Roman'; ">М. Гоголь</span></em>
 </p>
 <p style="margin-top:0pt; margin-bottom:0pt; text-indent:35.45pt; text-align:right; line-height:normal; font-size:12pt; background-color:#ffffff">
-<span style="font-family:'Times New Roman'">&nbsp;</span>
+&nbsp;</span>
 </p>
 <p style="margin-top:0pt; margin-bottom:0pt; text-indent:35.45pt; text-align:justify; line-height:normal; font-size:12pt; background-color:#ffffff">
-<span style="font-family:'Times New Roman'">І возвеличимо на диво</span>
+І возвеличимо на диво</span>
 </p>
 <p style="margin-top:0pt; margin-bottom:0pt; text-indent:35.45pt; text-align:justify; line-height:normal; font-size:12pt; background-color:#ffffff">
-<span style="font-family:'Times New Roman'">І розум наш, і наш язик...</span>
+І розум наш, і наш язик...</span>
 </p>
 <p style="margin-top:0pt; margin-bottom:0pt; text-indent:35.45pt; text-align:right; line-height:normal; font-size:12pt; background-color:#ffffff">
 <em><span style="font-family:'Times New Roman'; ">Т. Шевченко</span></em>
 </p>
 <p style="margin-top:0pt; margin-bottom:0pt; text-indent:35.45pt; text-align:right; line-height:normal; font-size:12pt; background-color:#ffffff">
-<span style="font-family:'Times New Roman'">&nbsp;</span>
+&nbsp;</span>
 </p>
 <p style="margin-top:0pt; margin-bottom:0pt; text-indent:35.45pt; text-align:justify; line-height:normal; font-size:12pt; background-color:#ffffff">
-<span style="font-family:'Times New Roman'">Мова вмирає, коли наступне покоління втрачає розуміння значення слів.</span>
+Мова вмирає, коли наступне покоління втрачає розуміння значення слів.</span>
 </p>
 <p style="margin-top:0pt; margin-bottom:0pt; text-indent:35.45pt; text-align:right; line-height:normal; font-size:12pt; background-color:#ffffff">
 <em><span style="font-family:'Times New Roman'; ">В. Голобородько</span></em>
 </p>
 <p style="margin-top:0pt; margin-bottom:0pt; text-indent:35.45pt; text-align:right; line-height:normal; font-size:12pt; background-color:#ffffff">
-<span style="font-family:'Times New Roman'">&nbsp;</span>
+&nbsp;</span>
 </p>
 <p style="margin-top:0pt; margin-bottom:0pt; text-indent:35.45pt; text-align:justify; line-height:normal; font-size:12pt; background-color:#ffffff">
-<span style="font-family:'Times New Roman'">Мова — це глибина тисячоліть.</span>
+Мова — це глибина тисячоліть.</span>
 </p>
 <p style="margin-top:0pt; margin-bottom:0pt; text-indent:35.45pt; text-align:right; line-height:normal; font-size:12pt; background-color:#ffffff">
 <em><span style="font-family:'Times New Roman'; ">М. Шумило</span></em>
 </p>
 <p style="margin-top:0pt; margin-bottom:0pt; text-indent:35.45pt; text-align:right; line-height:normal; font-size:12pt; background-color:#ffffff">
-<span style="font-family:'Times New Roman'">&nbsp;</span>
+&nbsp;</span>
 </p>
 <p style="margin-top:0pt; margin-bottom:0pt; text-indent:35.45pt; text-align:justify; line-height:normal; font-size:12pt; background-color:#ffffff">
-<span style="font-family:'Times New Roman'">Нападати на мову народу — це означає нападати на його серце.</span>
+Нападати на мову народу — це означає нападати на його серце.</span>
 </p>
 <p style="margin-top:0pt; margin-bottom:0pt; text-indent:35.45pt; text-align:right; line-height:normal; font-size:12pt; background-color:#ffffff">
 <em><span style="font-family:'Times New Roman'; ">Г. Лаубе</span></em>
 </p>
 <p style="margin-top:0pt; margin-bottom:0pt; text-indent:35.45pt; text-align:right; line-height:normal; font-size:12pt; background-color:#ffffff">
-<span style="font-family:'Times New Roman'">&nbsp;</span>
+&nbsp;</span>
 </p>
 <p style="margin-top:0pt; margin-bottom:0pt; text-indent:35.45pt; text-align:justify; line-height:normal; font-size:12pt; background-color:#ffffff">
-<span style="font-family:'Times New Roman'">Нації вмирають не від інфаркту. Спочатку їм відбирає мову.</span>
+Нації вмирають не від інфаркту. Спочатку їм відбирає мову.</span>
 </p>
 <p style="margin-top:0pt; margin-bottom:0pt; text-indent:35.45pt; text-align:right; line-height:normal; font-size:12pt; background-color:#ffffff">
 <em><span style="font-family:'Times New Roman'; ">Л. Костенко</span></em>
 </p>
 <p style="margin-top:0pt; margin-bottom:0pt; text-indent:35.45pt; text-align:right; line-height:normal; font-size:12pt; background-color:#ffffff">
-<span style="font-family:'Times New Roman'">&nbsp;</span>
+&nbsp;</span>
 </p>
 <p style="margin-top:0pt; margin-bottom:0pt; text-indent:35.45pt; text-align:justify; line-height:normal; font-size:12pt; background-color:#ffffff">
-<span style="font-family:'Times New Roman'">Немає магії сильнішої, ніж магія слів.</span>
+Немає магії сильнішої, ніж магія слів.</span>
 </p>
 <p style="margin-top:0pt; margin-bottom:0pt; text-indent:35.45pt; text-align:right; line-height:normal; font-size:12pt; background-color:#ffffff">
 <em><span style="font-family:'Times New Roman'; ">А. Франс</span></em>
 </p>
 <p style="margin-top:0pt; margin-bottom:0pt; text-indent:35.45pt; text-align:right; line-height:normal; font-size:12pt; background-color:#ffffff">
-<span style="font-family:'Times New Roman'">&nbsp;</span>
+&nbsp;</span>
 </p>
 <p style="margin-top:0pt; margin-bottom:0pt; text-indent:35.45pt; text-align:justify; line-height:normal; font-size:12pt; background-color:#ffffff">
-<span style="font-family:'Times New Roman'">Раби — це нація, котра не має Слова. Тому й не зможе захистить себе.</span>
+Раби — це нація, котра не має Слова. Тому й не зможе захистить себе.</span>
 </p>
 <p style="margin-top:0pt; margin-bottom:0pt; text-indent:35.45pt; text-align:right; line-height:normal; font-size:12pt; background-color:#ffffff">
 <em><span style="font-family:'Times New Roman'; ">О. Пахльовська</span></em>
 </p>
 <p style="margin-top:0pt; margin-bottom:0pt; text-indent:35.45pt; text-align:right; line-height:normal; font-size:12pt; background-color:#ffffff">
-<span style="font-family:'Times New Roman'">&nbsp;</span>
+&nbsp;</span>
 </p>
 <p style="margin-top:0pt; margin-bottom:0pt; text-indent:35.45pt; text-align:justify; line-height:normal; font-size:12pt; background-color:#ffffff">
-<span style="font-family:'Times New Roman'">Слово є вчинок.</span>
+Слово є вчинок.</span>
 </p>
 <p style="margin-top:0pt; margin-bottom:0pt; text-indent:35.45pt; text-align:right; line-height:normal; font-size:12pt; background-color:#ffffff">
 <em><span style="font-family:'Times New Roman'; ">Л. Толстой</span></em>
 </p>
 <p style="margin-top:0pt; margin-bottom:0pt; text-indent:35.45pt; text-align:right; line-height:normal; font-size:12pt; background-color:#ffffff">
-<span style="font-family:'Times New Roman'">&nbsp;</span>
+&nbsp;</span>
 </p>
 <p style="margin-top:0pt; margin-bottom:0pt; text-indent:35.45pt; text-align:justify; line-height:normal; font-size:12pt; background-color:#ffffff">
-<span style="font-family:'Times New Roman'">Споконвіку було Слово.</span>
+Споконвіку було Слово.</span>
 </p>
 <p style="margin-top:0pt; margin-bottom:0pt; text-indent:35.45pt; text-align:right; line-height:normal; font-size:12pt; background-color:#ffffff">
 <em><span style="font-family:'Times New Roman'; ">Старий Завіт</span></em>
 </p>
 <p style="margin-top:0pt; margin-bottom:0pt; text-indent:35.45pt; text-align:right; line-height:normal; font-size:12pt; background-color:#ffffff">
-<span style="font-family:'Times New Roman'">&nbsp;</span>
+&nbsp;</span>
 </p>
 <p style="margin-top:0pt; margin-bottom:0pt; text-indent:35.45pt; text-align:justify; line-height:normal; font-size:12pt; background-color:#ffffff">
-<span style="font-family:'Times New Roman'">Українці — стародавній народ, а мова "їхня багатша і всеосяжніша, ніж пер</span><span style="font-family:'Times New Roman'">­</span><span style="font-family:'Times New Roman'">сидська, китайська, монгольська і всілякі інші.</span>
+Українці — стародавній народ, а мова "їхня багатша і всеосяжніша, ніж пер</span>­</span>сидська, китайська, монгольська і всілякі інші.</span>
 </p>
 <p style="margin-top:0pt; margin-bottom:0pt; text-indent:35.45pt; text-align:right; line-height:normal; font-size:12pt; background-color:#ffffff">
 <em><span style="font-family:'Times New Roman'; ">Е. Челебі</span></em>
 </p>
 <p style="margin-top:0pt; margin-bottom:0pt; text-indent:35.45pt; text-align:right; line-height:normal; font-size:12pt; background-color:#ffffff">
-<span style="font-family:'Times New Roman'">&nbsp;</span>
+&nbsp;</span>
 </p>
 <p style="margin-top:0pt; margin-bottom:0pt; text-indent:35.45pt; text-align:justify; line-height:normal; font-size:12pt; background-color:#ffffff">
-<span style="font-family:'Times New Roman'">Хай живе велика російська мова, але хай живе і солодко-співуча, ні з чим не зрівнянна українська мова.</span>
+Хай живе велика російська мова, але хай живе і солодко-співуча, ні з чим не зрівнянна українська мова.</span>
 </p>
 <p style="margin-top:0pt; margin-bottom:0pt; text-indent:35.45pt; text-align:right; line-height:normal; font-size:12pt; background-color:#ffffff">
 <em><span style="font-family:'Times New Roman'; ">В. Солоухін</span></em>
 </p>
 <p style="margin-top:0pt; margin-bottom:0pt; text-indent:35.45pt; text-align:right; line-height:normal; font-size:12pt; background-color:#ffffff">
-<span style="font-family:'Times New Roman'">&nbsp;</span>
+&nbsp;</span>
 </p>
 <p style="margin-top:0pt; margin-bottom:0pt; text-indent:35.45pt; text-align:justify; line-height:normal; font-size:12pt; background-color:#ffffff">
-<span style="font-family:'Times New Roman'">Я дуже люблю &lt;...&gt; народну українську мову, звучну, барвисту й таку м'яку.</span>
+Я дуже люблю &lt;...&gt; народну українську мову, звучну, барвисту й таку м'яку.</span>
 </p>
 <p style="margin-top:0pt; margin-bottom:0pt; text-indent:35.45pt; text-align:right; line-height:normal; font-size:12pt; background-color:#ffffff">
 <em><span style="font-family:'Times New Roman'; ">Л. Толстой</span></em>
 </p>
 <p style="margin-top:0pt; margin-bottom:0pt; text-indent:35.45pt; text-align:right; line-height:normal; font-size:12pt; background-color:#ffffff">
-<span style="font-family:'Times New Roman'">&nbsp;</span>
+&nbsp;</span>
 </p>
 <p style="margin-top:0pt; margin-bottom:0pt; text-indent:35.45pt; text-align:justify; line-height:normal; font-size:12pt; background-color:#ffffff">
-<span style="font-family:'Times New Roman'">А пісня — це душа. З усіх потреб потреба. Лиш пісня в серці ширить межі неба. На крилах сонце сяйво їй лиша. Чим глибша пісня, тим ясніш душа.</span>
+А пісня — це душа. З усіх потреб потреба. Лиш пісня в серці ширить межі неба. На крилах сонце сяйво їй лиша. Чим глибша пісня, тим ясніш душа.</span>
 </p>
 <p style="margin-top:0pt; margin-bottom:0pt; text-indent:35.45pt; text-align:right; line-height:normal; font-size:12pt; background-color:#ffffff">
 <em><span style="font-family:'Times New Roman'; ">І. Драч</span></em>
 </p>
 <p style="margin-top:0pt; margin-bottom:0pt; text-indent:35.45pt; text-align:right; line-height:normal; font-size:12pt; background-color:#ffffff">
-<span style="font-family:'Times New Roman'">&nbsp;</span>
+&nbsp;</span>
 </p>
 <p style="margin-top:0pt; margin-bottom:0pt; text-indent:35.45pt; text-align:justify; line-height:normal; font-size:12pt; background-color:#ffffff">
-<span style="font-family:'Times New Roman'">Народна пісня — духовне обличчя нації.</span>
+Народна пісня — духовне обличчя нації.</span>
 </p>
 <p style="margin-top:0pt; margin-bottom:0pt; text-indent:35.45pt; text-align:right; line-height:normal; font-size:12pt; background-color:#ffffff">
 <em><span style="font-family:'Times New Roman'; ">А. Міцкевич</span></em>
 </p>
 <p style="margin-top:0pt; margin-bottom:0pt; text-indent:35.45pt; text-align:right; line-height:normal; font-size:12pt; background-color:#ffffff">
-<span style="font-family:'Times New Roman'">&nbsp;</span>
+&nbsp;</span>
 </p>
 <p style="margin-top:0pt; margin-bottom:0pt; text-indent:35.45pt; text-align:justify; line-height:normal; font-size:12pt; background-color:#ffffff">
-<span style="font-family:'Times New Roman'">Пісня — це коли душа сповідається.</span>
+Пісня — це коли душа сповідається.</span>
 </p>
 <p style="margin-top:0pt; margin-bottom:0pt; text-indent:35.45pt; text-align:right; line-height:normal; font-size:12pt; background-color:#ffffff">
 <em><span style="font-family:'Times New Roman'; ">Г. Тютюнник</span></em>
 </p>
 <p style="margin-top:0pt; margin-bottom:0pt; text-indent:35.45pt; text-align:right; line-height:normal; font-size:12pt; background-color:#ffffff">
-<span style="font-family:'Times New Roman'">&nbsp;</span>
+&nbsp;</span>
 </p>
 <p style="margin-top:0pt; margin-bottom:0pt; text-indent:35.45pt; text-align:justify; line-height:normal; font-size:12pt; background-color:#ffffff">
-<span style="font-family:'Times New Roman'">Українська пісня — це бездонна душа українського народу, це його слава.</span>
+Українська пісня — це бездонна душа українського народу, це його слава.</span>
 </p>
 <p style="margin-top:0pt; margin-left:7.1pt; margin-bottom:0pt; text-align:right; line-height:normal; font-size:12pt; background-color:#ffffff">
 <em><span style="font-family:'Times New Roman'; ">О. Довженко</span></em>
 </p>
 <p style="margin-top:0pt; margin-bottom:0pt; text-indent:35.45pt; text-align:right; line-height:normal; font-size:12pt; background-color:#ffffff">
-<span style="font-family:'Times New Roman'">&nbsp;</span>
+&nbsp;</span>
 </p>
 <p style="margin-top:0pt; margin-bottom:0pt; text-indent:35.45pt; text-align:justify; line-height:normal; font-size:12pt; background-color:#ffffff">
-<span style="font-family:'Times New Roman'">Українська пісня — це геніальна поетична біографія українського народу.</span>
+Українська пісня — це геніальна поетична біографія українського народу.</span>
 </p>
 <p style="margin-top:0pt; margin-bottom:0pt; text-indent:35.45pt; text-align:right; line-height:normal; font-size:12pt; background-color:#ffffff">
 <em><span style="font-family:'Times New Roman'; ">О. Довженко</span></em>
 </p>
 <p style="margin-top:0pt; margin-bottom:0pt; text-indent:35.45pt; text-align:right; line-height:normal; font-size:12pt; background-color:#ffffff">
-<span style="font-family:'Times New Roman'">&nbsp;</span>
+&nbsp;</span>
 </p>
  <p style="margin-top:0pt; margin-bottom:0pt; text-indent:35.45pt; text-align:justify; line-height:normal; font-size:12pt; background-color:#ffffff">
-<span style="font-family:'Times New Roman'">Наша Батьківщина благає допомоги красномовства, бо так багато її преслав</span><span style="font-family:'Times New Roman'">­</span><span style="font-family:'Times New Roman'">них подвигів поминається глибокою мовчанкою.</span>
+Наша Батьківщина благає допомоги красномовства, бо так багато її преслав</span>­</span>них подвигів поминається глибокою мовчанкою.</span>
 </p>
 <p style="margin-top:0pt; margin-bottom:0pt; text-indent:35.45pt; text-align:right; line-height:normal; font-size:12pt; background-color:#ffffff">
 <em><span style="font-family:'Times New Roman'; ">Феофан Прокопович</span></em>
 </p>
 <p style="margin-top:0pt; margin-bottom:0pt; text-indent:35.45pt; text-align:right; line-height:normal; font-size:12pt; background-color:#ffffff">
-<span style="font-family:'Times New Roman'">&nbsp;</span>
+&nbsp;</span>
 </p>
 <p style="margin-top:0pt; margin-bottom:0pt; line-height:normal; font-size:12pt">
-<span style="font-family:'Times New Roman'">&nbsp;</span>
+&nbsp;</span>
 </p>
 <p style="margin-top:0pt; margin-bottom:0pt; line-height:normal; font-size:12pt">
 <span style="width:50.15pt; display:inline-block">&nbsp;</span>
@@ -681,21 +687,859 @@ font-size:12pt">
 <strong><span style="font-family:'Times New Roman'; ">Про добро і зло. Про правду і неправду. Про мудрість, славу і час</span></strong>
 </p>
 <p style="margin-top:0pt; margin-bottom:0pt; line-height:normal; font-size:12pt">
-<br><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'"> </span><br><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'"> Жодна чеснота не спокутує пороків. </span><br><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'"> Ювенал </span><br><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'"> </span><br><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'"> Час — чесний чоловік. </span><br><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'"> Бомарше </span><br><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'"> </span><br><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'"> Люби істину, але будь поблажливим до помилок. </span><br><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'"> Вольтер </span><br><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'"> </span><br><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'"> Вірний спосіб судити про характер і розум людини по вибору нею книжки і друзів. </span><br><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'"> Гельвецій </span><br><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'"> </span><br><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'"> Сміхом виправляють мораль. </span><br><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'"> О. Бальзак </span><br><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'"> </span><br><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'"> Із усіх критиків найбільш великий, найгеніальніший, найбільш непогрішимий — час. </span><br><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'"> В. Бєлінський </span><br><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'"> </span><br><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'"> Кожна людина несе відповідальність перед усіма людьми за всіх людей і за все. </span><br><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'"> Ф. Достоєвський </span><br><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'"> </span><br><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'"> Людина створена для щастя, як птах для польоту. </span><br><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'"> В. Короленко </span><br><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'"> </span><br><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'"> Мій спосіб жартувати — це казати правду. На світі немає нічого смішнішого. </span><br><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'"> Б. Шоу </span><br><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'"> </span><br><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'"> Добрій людині буває соромно навіть перед собою. </span><br><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'"> А. Чехов </span><br><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'"> </span><br><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'"> Історія природи починається з добра, бо вона — творіння Боже; історія свободи — зі зла, бо вона є справою рук людських. </span><br><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'"> І. Кант </span><br><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'"> </span><br><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'"> Держави гинуть тоді, коли не можуть відрізнити добрих людей від поганих. </span><br><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'"> Антисфен </span><br><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'"> </span><br><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'"> Правда — наче гірке питво, неприємне на смак, але воно відновлює здоров'я. </span><br><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'"> О. Бальзак </span><br><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'"> </span><br><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'"> Без праведника не стоїть село. Ні місто. Ні вся земля наша. </span><br><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'"> О. Солженіцин </span><br><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'"> </span><br><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'"> Якщо дорослий зовсім забуде дитину в собі, він перетвориться в машину для їжі, задоволення, добування грошей. </span><br><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'"> Дж. Апдайк </span><br><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'"> </span><br><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'"> Будьте мудрі, наче змії, і прості, наче голуби. </span><br><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'"> Новий Завіт (Mm. 10.16) </span><br><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'"> </span><br><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'"> Віддай людині крихітку себе. </span><br><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'"> За це душа поповнюється світлом. </span><br><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'"> Л. Костенко </span><br><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'"> </span><br><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'"> І тільки той прожив немарно, Хто злу ішов наперекір. </span><br><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'"> І. Муратов </span><br><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'"> </span><br><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'"> Кожного разу, коли тобі чого-небудь дуже хочеться, спинись і поміркуй: чи добре те, чого тобі хочеться. </span><br><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'"> Л. Толстой </span><br><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'"> </span><br><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'"> Краще різка відвертість, ніж зрадницька мовчанка. </span><br><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'"> Г. Тютюнник </span><br><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'"> </span><br><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'"> Ніщо так боляче не б'є людину, як брехня. </span><br><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'"> Г. Тютюнник </span><br><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'"> </span><br><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'"> Після вади — засуджувати всіх, найбільш нестерпна вада — розхвалювати себе самого. </span><br><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'"> Ф. Бекон </span><br><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'"> </span><br><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'"> Сам я вільний і ніколи Не зламав чужої волі. </span><br><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'"> Леся Українка </span><br><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'"> </span><br><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'"> Сердяться слабкі душі, сильні — ненавидять або прощають. </span><br><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'"> Г. Тютюнник </span><br><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'"> </span><br><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'"> А живуть століття після смерті </span><br><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'"> Ті, що роблять те, чого «не можна». </span><br><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'"> В. Симоненко </span><br><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'"> </span><br><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'"> Народ шукає в геніях себе. </span><br><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'"> Л. Костенко </span><br><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'"> </span><br><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'"> Немає величі там, де нема простоти, добра і правди. </span><br><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'"> Л. Толстой </span><br><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'"> </span><br><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'"> Слава — величезний стимул. </span><br><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'"> Овідій </span><br><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'"> </span><br><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'"> Трудний він і тернистий, шлях на Голгофу слави. </span><br><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'"> І. Світличний </span><br><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'"> </span><br><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'"> У цьому світі є тільки одна річ, перед якою належить схилятися, це — геній, і одна річ, перед якою слід упасти на коліна, — це доброта. </span><br><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'"> В. Гюґо </span><br><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'"> </span><br><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'"> Сама доброчинність стає пороком, коли застосовують її помилково. </span><br><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'"> О. Довженко</span>
+style="font-family:'Times New Roman'"> Жодна чеснота не спокутує пороків. </span><br>
+
+Ювенал </span><br>
+
+ </span><br>
+
+ Час — чесний чоловік. </span><br>
+
+ Бомарше </span><br>
+
+ </span><br>
+
+ Люби істину, але будь поблажливим до помилок. </span><br>
+
+ Вольтер </span><br>
+
+ </span><br>
+
+ Вірний спосіб судити про характер і розум людини по вибору нею книжки і друзів. </span><br>
+
+ Гельвецій </span><br>
+
+ </span><br>
+
+ Сміхом виправляють мораль. </span><br>
+
+ О. Бальзак </span><br>
+
+ </span><br>
+
+ Із усіх критиків найбільш великий, найгеніальніший, найбільш непогрішимий — час. </span><br>
+
+ В. Бєлінський </span><br>
+
+ </span><br>
+
+ Кожна людина несе відповідальність перед усіма людьми за всіх людей і за все. </span><br>
+
+ Ф. Достоєвський </span><br>
+
+ </span><br>
+
+ Людина створена для щастя, як птах для польоту. </span><br>
+
+ В. Короленко </span><br>
+
+ </span><br>
+
+ Мій спосіб жартувати — це казати правду. На світі немає нічого смішнішого. </span><br>
+
+ Б. Шоу </span><br>
+
+ </span><br>
+
+ Добрій людині буває соромно навіть перед собою. </span><br>
+
+ А. Чехов </span><br>
+
+ </span><br>
+
+ Історія природи починається з добра, бо вона — творіння Боже; історія свободи — зі зла, бо вона є справою рук людських. </span><br>
+
+ І. Кант </span><br>
+
+ </span><br>
+
+ Держави гинуть тоді, коли не можуть відрізнити добрих людей від поганих. </span><br>
+
+ Антисфен </span><br>
+
+ </span><br>
+
+ Правда — наче гірке питво, неприємне на смак, але воно відновлює здоров'я. </span><br>
+
+ О. Бальзак </span><br>
+
+ </span><br>
+
+ Без праведника не стоїть село. Ні місто. Ні вся земля наша. </span><br>
+
+ О. Солженіцин </span><br>
+
+ </span><br>
+
+ Якщо дорослий зовсім забуде дитину в собі, він перетвориться в машину для їжі, задоволення, добування грошей. </span><br>
+
+ Дж. Апдайк </span><br>
+
+ </span><br>
+
+ Будьте мудрі, наче змії, і прості, наче голуби. </span><br>
+
+ Новий Завіт (Mm. 10.16) </span><br>
+
+ </span><br>
+
+ Віддай людині крихітку себе. </span><br>
+
+ За це душа поповнюється світлом. </span><br>
+
+ Л. Костенко </span><br>
+
+ </span><br>
+
+ І тільки той прожив немарно, Хто злу ішов наперекір. </span><br>
+
+ І. Муратов </span><br>
+
+ </span><br>
+
+ Кожного разу, коли тобі чого-небудь дуже хочеться, спинись і поміркуй: чи добре те, чого тобі хочеться. </span><br>
+
+ Л. Толстой </span><br>
+
+ </span><br>
+
+ Краще різка відвертість, ніж зрадницька мовчанка. </span><br>
+
+ Г. Тютюнник </span><br>
+
+ </span><br>
+
+ Ніщо так боляче не б'є людину, як брехня. </span><br>
+
+ Г. Тютюнник </span><br>
+
+ </span><br>
+
+ Після вади — засуджувати всіх, найбільш нестерпна вада — розхвалювати себе самого. </span><br>
+
+ Ф. Бекон </span><br>
+
+ </span><br>
+
+ Сам я вільний і ніколи Не зламав чужої волі. </span><br>
+
+ Леся Українка </span><br>
+
+ </span><br>
+
+ Сердяться слабкі душі, сильні — ненавидять або прощають. </span><br>
+
+ Г. Тютюнник </span><br>
+
+ </span><br>
+
+ А живуть століття після смерті </span><br>
+
+ Ті, що роблять те, чого «не можна». </span><br>
+
+ В. Симоненко </span><br>
+
+ </span><br>
+
+ Народ шукає в геніях себе. </span><br>
+
+ Л. Костенко </span><br>
+
+ </span><br>
+
+ Немає величі там, де нема простоти, добра і правди. </span><br>
+
+ Л. Толстой </span><br>
+
+ </span><br>
+
+ Слава — величезний стимул. </span><br>
+
+ Овідій </span><br>
+
+ </span><br>
+
+ Трудний він і тернистий, шлях на Голгофу слави. </span><br>
+
+ І. Світличний </span><br>
+
+ </span><br>
+
+ У цьому світі є тільки одна річ, перед якою належить схилятися, це — геній, і одна річ, перед якою слід упасти на коліна, — це доброта. </span><br>
+
+ В. Гюґо </span><br>
+
+ </span><br>
+
+ Сама доброчинність стає пороком, коли застосовують її помилково. </span><br>
+
+ О. Довженко</span>
 </p>
 <p style="margin-top:0pt; margin-bottom:0pt; line-height:normal; font-size:12pt">
 <strong><span style="font-family:'Times New Roman'; ">Про добро і зло. Про правду і неправду. Про мудрість, славу і час</span></strong>
 </p>
 <p style="margin-top:0pt; margin-bottom:0pt; line-height:normal; font-size:12pt">
-<br><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'"> </span><br><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'"> Жодна чеснота не спокутує пороків. </span><br><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'"> Ювенал </span><br><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'"> </span><br><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'"> Час — чесний чоловік. </span><br><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'"> Бомарше </span><br><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'"> </span><br><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'"> Люби істину, але будь поблажливим до помилок. </span><br><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'"> Вольтер </span><br><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'"> </span><br><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'"> Вірний спосіб судити про характер і розум людини по вибору нею книжки і друзів. </span><br><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'"> Гельвецій </span><br><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'"> </span><br><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'"> Сміхом виправляють мораль. </span><br><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'"> О. Бальзак </span><br><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'"> </span><br><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'"> Із усіх критиків найбільш великий, найгеніальніший, найбільш непогрішимий — час. </span><br><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'"> В. Бєлінський </span><br><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'"> </span><br><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'"> Кожна людина несе відповідальність перед усіма людьми за всіх людей і за все. </span><br><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'"> Ф. Достоєвський </span><br><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'"> </span><br><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'"> Людина створена для щастя, як птах для польоту. </span><br><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'"> В. Короленко </span><br><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'"> </span><br><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'"> Мій спосіб жартувати — це казати правду. На світі немає нічого смішнішого. </span><br><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'"> Б. Шоу </span><br><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'"> </span><br><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'"> Добрій людині буває соромно навіть перед собою. </span><br><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'"> А. Чехов </span><br><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'"> </span><br><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'"> Історія природи починається з добра, бо вона — творіння Боже; історія свободи — зі зла, бо вона є справою рук людських. </span><br><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'"> І. Кант </span><br><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'"> </span><br><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'"> Держави гинуть тоді, коли не можуть відрізнити добрих людей від поганих. </span><br><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'"> Антисфен </span><br><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'"> </span><br><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'"> Правда — наче гірке питво, неприємне на смак, але воно відновлює здоров'я. </span><br><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'"> О. Бальзак </span><br><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'"> </span><br><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'"> Без праведника не стоїть село. Ні місто. Ні вся земля наша. </span><br><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'"> О. Солженіцин </span><br><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'"> </span><br><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'"> Якщо дорослий зовсім забуде дитину в собі, він перетвориться в машину для їжі, задоволення, добування грошей. </span><br><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'"> Дж. Апдайк </span><br><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'"> </span><br><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'"> Будьте мудрі, наче змії, і прості, наче голуби. </span><br><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'"> Новий Завіт (Mm. 10.16) </span><br><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'"> </span><br><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'"> Віддай людині крихітку себе. </span><br><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'"> За це душа поповнюється світлом. </span><br><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'"> Л. Костенко </span><br><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'"> </span><br><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'"> І тільки той прожив немарно, Хто злу ішов наперекір. </span><br><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'"> І. Муратов </span><br><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'"> </span><br><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'"> Кожного разу, коли тобі чого-небудь дуже хочеться, спинись і поміркуй: чи добре те, чого тобі хочеться. </span><br><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'"> Л. Толстой </span><br><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'"> </span><br><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'"> Краще різка відвертість, ніж зрадницька мовчанка. </span><br><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'"> Г. Тютюнник </span><br><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'"> </span><br><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'"> Ніщо так боляче не б'є людину, як брехня. </span><br><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'"> Г. Тютюнник </span><br><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'"> </span><br><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'"> Після вади — засуджувати всіх, найбільш нестерпна вада — розхвалювати себе самого. </span><br><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'"> Ф. Бекон </span><br><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'"> </span><br><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'"> Сам я вільний і ніколи Не зламав чужої волі. </span><br><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'"> Леся Українка </span><br><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'"> </span><br><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'"> Сердяться слабкі душі, сильні — ненавидять або прощають. </span><br><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'"> Г. Тютюнник </span><br><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'"> </span><br><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'"> А живуть століття після смерті </span><br><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'"> Ті, що роблять те, чого «не можна». </span><br><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'"> В. Симоненко </span><br><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'"> </span><br><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'"> Народ шукає в геніях себе. </span><br><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'"> Л. Костенко </span><br><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'"> </span><br><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'"> Немає величі там, де нема простоти, добра і правди. </span><br><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'"> Л. Толстой </span><br><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'"> </span><br><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'"> Слава — величезний стимул. </span><br><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'"> Овідій </span><br><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'"> </span><br><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'"> Трудний він і тернистий, шлях на Голгофу слави. </span><br><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'"> І. Світличний </span><br><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'"> </span><br><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'"> У цьому світі є тільки одна річ, перед якою належить схилятися, це — геній, і одна річ, перед якою слід упасти на коліна, — це доброта. </span><br><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'"> В. Гюґо </span><br><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'"> </span><br><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'"> Сама доброчинність стає пороком, коли застосовують її помилково. </span><br><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'"> О. Довженко </span>
+<br>
+
+</span><br>
+
+ Жодна чеснота не спокутує пороків. </span><br>
+
+ Ювенал </span><br>
+
+ </span><br>
+
+ Час — чесний чоловік. </span><br>
+
+ Бомарше </span><br>
+
+ </span><br>
+
+ Люби істину, але будь поблажливим до помилок. </span><br>
+
+ Вольтер </span><br>
+
+ </span><br>
+
+ Вірний спосіб судити про характер і розум людини по вибору нею книжки і друзів. </span><br>
+
+ Гельвецій </span><br>
+
+ </span><br>
+
+ Сміхом виправляють мораль. </span><br>
+
+ О. Бальзак </span><br>
+
+ </span><br>
+
+ Із усіх критиків найбільш великий, найгеніальніший, найбільш непогрішимий — час. </span><br>
+
+ В. Бєлінський </span><br>
+
+ </span><br>
+
+ Кожна людина несе відповідальність перед усіма людьми за всіх людей і за все. </span><br>
+
+ Ф. Достоєвський </span><br>
+
+ </span><br>
+
+ Людина створена для щастя, як птах для польоту. </span><br>
+
+ В. Короленко </span><br>
+
+ </span><br>
+
+ Мій спосіб жартувати — це казати правду. На світі немає нічого смішнішого. </span><br>
+
+ Б. Шоу </span><br>
+
+ </span><br>
+
+ Добрій людині буває соромно навіть перед собою. </span><br>
+
+ А. Чехов </span><br>
+
+ </span><br>
+
+ Історія природи починається з добра, бо вона — творіння Боже; історія свободи — зі зла, бо вона є справою рук людських. </span><br>
+
+ І. Кант </span><br>
+
+ </span><br>
+
+ Держави гинуть тоді, коли не можуть відрізнити добрих людей від поганих. </span><br>
+
+ Антисфен </span><br>
+
+ </span><br>
+
+ Правда — наче гірке питво, неприємне на смак, але воно відновлює здоров'я. </span><br>
+
+ О. Бальзак </span><br>
+
+ </span><br>
+
+ Без праведника не стоїть село. Ні місто. Ні вся земля наша. </span><br>
+
+ О. Солженіцин </span><br>
+
+ </span><br>
+
+ Якщо дорослий зовсім забуде дитину в собі, він перетвориться в машину для їжі, задоволення, добування грошей. </span><br>
+
+ Дж. Апдайк </span><br>
+
+ </span><br>
+
+ Будьте мудрі, наче змії, і прості, наче голуби. </span><br>
+
+ Новий Завіт (Mm. 10.16) </span><br>
+
+ </span><br>
+
+ Віддай людині крихітку себе. </span><br>
+
+ За це душа поповнюється світлом. </span><br>
+
+ Л. Костенко </span><br>
+
+ </span><br>
+
+ І тільки той прожив немарно, Хто злу ішов наперекір. </span><br>
+
+ І. Муратов </span><br>
+
+ </span><br>
+
+ Кожного разу, коли тобі чого-небудь дуже хочеться, спинись і поміркуй: чи добре те, чого тобі хочеться. </span><br>
+
+ Л. Толстой </span><br>
+
+ </span><br>
+
+ Краще різка відвертість, ніж зрадницька мовчанка. </span><br>
+
+ Г. Тютюнник </span><br>
+
+ </span><br>
+
+ Ніщо так боляче не б'є людину, як брехня. </span><br>
+
+ Г. Тютюнник </span><br>
+
+ </span><br>
+
+ Після вади — засуджувати всіх, найбільш нестерпна вада — розхвалювати себе самого. </span><br>
+
+ Ф. Бекон </span><br>
+
+ </span><br>
+
+ Сам я вільний і ніколи Не зламав чужої волі. </span><br>
+
+ Леся Українка </span><br>
+
+ </span><br>
+
+ Сердяться слабкі душі, сильні — ненавидять або прощають. </span><br>
+
+ Г. Тютюнник </span><br>
+
+ </span><br>
+
+ А живуть століття після смерті </span><br>
+
+ Ті, що роблять те, чого «не можна». </span><br>
+
+ В. Симоненко </span><br>
+
+ </span><br>
+
+ Народ шукає в геніях себе. </span><br>
+
+ Л. Костенко </span><br>
+
+ </span><br>
+
+ Немає величі там, де нема простоти, добра і правди. </span><br>
+
+ Л. Толстой </span><br>
+
+ </span><br>
+
+ Слава — величезний стимул. </span><br>
+
+ Овідій </span><br>
+
+ </span><br>
+
+ Трудний він і тернистий, шлях на Голгофу слави. </span><br>
+
+ І. Світличний </span><br>
+
+ </span><br>
+
+ У цьому світі є тільки одна річ, перед якою належить схилятися, це — геній, і одна річ, перед якою слід упасти на коліна, — це доброта. </span><br>
+
+ В. Гюґо </span><br>
+
+ </span><br>
+
+ Сама доброчинність стає пороком, коли застосовують її помилково. </span><br>
+
+ О. Довженко </span>
 </p>
 <p style="margin-top:0pt; margin-bottom:0pt; line-height:normal; font-size:12pt">
-<span style="font-family:'Times New Roman'">Про виховання, про труд. Гроші і професію </span><br><br><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'"> Жити — значить працювати. Праця є життя людини. </span><br><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'"> Вольтер </span><br><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'"> </span><br><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'"> Ліниві завжди бувають людьми посередніми. </span><br><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'"> Вольтер </span><br><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'"> </span><br><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'"> Школа — це майстерня, де формується думка підростаючого покоління, треба міцно тримати її в руках, якщо не хочеш випустити з рук майбутнє. </span><br><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'"> А. Барбюс </span><br><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'"> </span><br><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'"> ...Немає настільки поганої людини, яку б добре виховання не зробило кращою. </span><br><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'"> В. Бєлінський </span><br><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'"> </span><br><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'"> Чи не від того люди мордують дітей, а інколи й дорослих, що їх так важко виховувати, а шмагати так легко? Чи не помщаємося ми покаранням за нашу нездатність? </span><br><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'"> О. Герцен </span><br><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'"> </span><br><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'"> Усяка школа славна не числом, а славою своїх учнів. </span><br><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'"> М. Пирогов </span><br><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'"> </span><br><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'"> Дітей не відлякаєш суворістю, вони не переносять тільки брехні. </span><br><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'"> О. Толстой </span><br><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'"> </span><br><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'"> Люди, розбещені в дитинстві, зберігають особливий відбиток до кінця життя. </span><br><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'"> І. Тургенев </span><br><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'"> </span><br><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'"> Вихователь не чиновник, а якщо він чиновник, то він не вихователь. </span><br><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'"> К. Ушинський </span><br><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'"> </span><br><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'"> Дитина, яка терпить менше образ, виростає людиною, яка більше усвідомлює свою гідність. </span><br><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'"> М. Чернишевський </span><br><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'"> </span><br><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'"> Тоді людина стає кращою, коли ви покажете їй, яка вона є. </span><br><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'"> А. Чехов </span><br><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'"> </span><br><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'"> Хто навчає і не виконує того, чого навчає, схожий на курку, яка, маючи крила, не літає. </span><br><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'"> Східна мудрість </span><br><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'"> </span><br><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'"> Під купою грошей може бути похована людська душа. </span><br><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'"> Н. Готорн </span><br><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'"> </span><br><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'"> Будь-яка влада розбещує, але надмірна розбещує абсолютно. </span><br><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'"> Ектон </span><br><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'"> </span><br><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'"> Бідність не вада, та від неї ще більша досада. </span><br><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'"> Французьке прислів’я </span><br><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'"> </span><br><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'"> Багатством живиться лише тіло, а душу звеселяє споріднена праця. </span><br><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'"> Г. Сковорода </span><br><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'"> </span><br><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'"> І труд, і піт благословен. </span><br><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'"> М. Рильський </span><br><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'"> </span><br><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'"> І я бачив — нема чоловікові кращого, як ділам своїм радіти, бо це доля його! </span><br><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'"> Старий Завіт (Екл. 3. 22) </span><br><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'"> </span><br><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'"> Кожна людина народжується для якогось діла. </span><br><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'"> Е. Гемінґвей </span><br><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'"> </span><br><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'"> Лиш праця світ таким, як є, створила. Лиш в праці варто і для праці жить. </span><br><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'"> І. Франко </span><br><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'"> </span><br><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'"> Праця пом'якшує горе. </span><br><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'"> Цицерон </span><br><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'"> </span><br><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'"> Соромно людині, якщо їй радять у працелюбності наслідувати мурашку, подвійно соромно, якщо вона цієї поради не дотримується. </span><br><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'"> Талмуд </span><br><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'"> </span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'"> </span><br><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'"> Багатства і почесті непевні і короткочасні. </span><br><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'"> Латинське прислів’я </span><br><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'"> </span><br><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'"> Бідність є вчителем у всіх ремеслах. </span><br><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'"> Плавт </span><br><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'"> </span><br><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'"> Забудь часи нужди, але не забувай того, чого вони тебе навчили. </span><br><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'"> С. Геснер </span><br><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'"> </span><br><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'"> Люди, які вважають, що гроші спроможні все зробити, самі спроможні все зробити за гроші. </span><br><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'"> П. Буаст </span><br><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'"> </span><br><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'"> Хоч би як ти пишався своїм багатством, та воно не змінить твоєї вартості. </span><br><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'"> Горацій </span><br><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'"> </span><br><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'"> Часто і під благеньким плащем криється мудрість. </span><br><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'"> Цицерон </span><br><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'"> </span><br><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'"> Виховання — велика справа: воно вирішує долю людини. </span><br><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'"> В. Бєлінський </span><br><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'"> </span><br><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'"> Для вченої й освіченої людини жити — значить мислити. </span><br><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'"> Цицерон </span><br><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'"> </span><br><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'"> Знання складається із дрібних крихт щоденного досвіду. </span><br><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'"> Д. Писарев </span><br><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'"> </span><br><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'"> Із найбільш диких лошат виходять найкращі коні, аби тільки їх як слід виховати й виїздити. </span><br><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'"> Плутарх </span><br><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'"> </span><br><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'"> Крапля довбає камінь не силою, а частим падінням, так людина стає вченою не силою, а частим читанням. </span><br><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'"> Овідій </span><br><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'"> </span><br><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'"> Неможливо виростити повноцінну людину без виховання в ній почуття Прекрасного. </span><br><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'"> Р. Тагор </span><br><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'"> </span><br><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'"> Освіта — скарб; праця — ключ до нього. </span><br><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'"> П. Буаст </span><br><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'"> </span><br><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'"> Учітеся, брати мої, думайте, читайте. </span><br><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'"> Т. Шевченко </span><br><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'"> </span><br><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'"> Чим більше знаєш, тим більше можеш. </span><br><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'"> Е. Абу </span><br><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'"> </span><br><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'"> Я знаю, що нічого не знаю. </span><br><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'"> Сократ </span><br><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'"> </span><br><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'"> Ніколи не соромся запитувати про те, чого не знаєш. </span><br><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'"> Арабське прислів’я </span><br><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'"> </span><br><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'"> Після хліба найважливіше для народу — школа. </span><br><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'"> Ж. Дантон </span><br><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'"> </span><br><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'"> Учень ніколи не перевершить учителя, якщо бачить у ньому зразок, а не суперника. </span><br><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'"> В. Бєлінський </span><br><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'"> </span><br><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'"> Якщо ви володієте знанням, дайте іншим запалити від нього свої світильники. </span><br><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'"> Т. Фулпер </span><br><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'"> </span><br><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'"> Книги — кораблі думки, які мандрують по хвилях часу і бережно несуть свій дорогоцінний вантаж від покоління до покоління. </span><br><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'"> Ф. Бекон </span><br><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'"> </span><br><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'"> Книги — морська глибина, Хто в них пірне аж до дна, Той, хоч і труду мав досить, Дивнії перли виносить. </span><br><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'"> І. Франко </span><br><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'"> </span><br><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'"> </span><br><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><br><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'"> Гіппократ </span><br><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'"> </span><br><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'"> &lt;...&gt; світять крізь пітьму науки дива... </span><br><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'"> Леся Українка </span><br><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'"> </span><br><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'"> Бо пам'ятайте, що на цій планеті, Відколи сотворив її пан Бог, Ще не було епохи для поетів, Але були поети для епох. </span><br><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'"> Л. Костенко </span><br><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'"> </span><br><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'"> Ніякий пророк не приймається у своїй батьківщині. </span><br><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'"> Лука (гл. 5, cm. 24) </span><br><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'"> </span><br><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'"> Якщо хворому після розмови з лікарем не стає легше, то це не лікар. </span><br><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'"> В. Бехтерев </span><br><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'"> </span><br><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'"> Професія лікаря — це подвиг, вона вимагає самовідданості, чистоти душі і чистоти помислів. </span><br><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'"> А. Чехов </span><br><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'"> </span><br><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'"> Якщо вчитель поєднує в собі любов до справи і до учня, він — досконалий учитель. </span><br><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'"> Л. Толстой</span>
-</p>
-<p style="margin-top:0pt; margin-bottom:0pt; text-align:center; line-height:normal; font-size:12pt">
-<strong><span style="font-family:'Times New Roman'; ">Про кохання, красу і мистецтво. Про любов до батьків</span></strong>
-</p>
-<p style="margin-top:0pt; margin-bottom:0pt; line-height:normal; font-size:12pt">
-<br><br><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'"> Кохання має свої закони розвитку, свій вік, як життя людське. У нього є своя розкішна весна, своє спекотне літо, нарешті, осінь, яка для одних буває теплою, світлою і родючою, для інших — холодною, гнилою і безплідною. </span><br><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'"> В. Бєлінський </span><br><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'"> </span><br><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'"> Немає нічого святішого і безкориснішого од любові матері; будь-яка прив'язаність, всяка прихильність, всяка пристрасть або слабка, або своєкорисна у порівнянні з нею. </span><br><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'"> В. Бєлінський </span><br><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'"> </span><br><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'"> Тільки закоханий має право на звання людини. </span><br><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'"> О. Блок </span><br><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'"> </span><br><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'"> Любов ніколи не вимагає, вона завжди дає. Любов завжди страждає, ніколи не виражає протесту, ніколи не мстить за себе. </span><br><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'"> Мохандас Ганді </span><br><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'"> </span><br><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'"> Від кохання до жінки народилося все прекрасне на землі. </span><br><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'"> Максим Горький </span><br><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'"> </span><br><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'"> Коли любиш когось, ти його любиш, і якщо нічого більше не можеш йому дати, ти все-таки даєш йому любов. </span><br><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'"> Дж. Оруелл </span><br><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'"> </span><br><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'"> Не будемо говорити про любов, бо ми досі не знаємо, що це таке. </span><br><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'"> К. Паустовський </span><br><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'"> </span><br><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'"> ...Закохатися не означає кохати... Закохатися можна і ненавидячи. </span><br><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'"> Ф. Достоєвський </span><br><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'"> </span><br><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'"> Материнські руки — втілення ніжності; дітям добре спиться на цих рухах. </span><br><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'"> В. Гюго </span><br><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'"> </span><br><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'"> Звеличимо жінку — Матір, чия любов не знає перешкод, чиєю груддю викоханий увесь світ! Усе прекрасне в людині — від променів сонця і від молока Матері, ось що насичує нас любов'ю до життя!</span><br><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'"> Максим Горький </span><br><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'"> </span><br><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'"> Любов і дружба — взаємна луна; вони дають стільки, скільки беруть. </span><br><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'"> О. Герцен </span><br><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'"> </span><br><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'"> Горе серцеві, що не кохало змолоду! </span><br><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'"> І. Тургенев </span><br><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'"> </span><br><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'"> Любов до батьків — основа всіх чеснот. </span><br><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'"> Цицерон </span><br><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'"> </span><br><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'"> Мати — це ім'я Бога на устах і в серцях маленьких дітей. </span><br><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'"> В. Теккерей </span><br><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'"> </span><br><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'"> Можна вибрать друга і по духу брата, Та не можна рідну матір вибирати. </span><br><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'"> В. Симоненко </span><br><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'"> </span><br><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'"> Страшнішого горя нема, ніж те, коли старість мати в домівці стрічає сама. </span><br><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'"> В. Симоненко </span><br><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'"> </span><br><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'"> &lt;...&gt; хто матір забуває, Того Бог карає. </span><br><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'"> Т. Шевченко </span><br><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'"> </span><br><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'"> Владна над люблячим тільки любов! </span><br><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'"> Й.-В. Ґете </span><br><br><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'"> Десь на дні мого серця заплела дивну казку любов. </span><br><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'"> П. Тичина </span><br><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'"> </span><br><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'"> З тобою жити на одній землі, — яке велике щастя! </span><br><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'"> Олександр Олесь </span><br><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'"> </span><br><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'"> Мало — бачити. Мало — розуміти. Треба любить. Немає загадки таланту. Є вічна загадка Любові. </span><br><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'"> Г. Тютюнник </span><br><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'"> </span><br><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'"> Напитись голосу твого, того закоханого струму, тієї радості і суму, чаклунства дивного того. </span><br><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'"> Л. Костенко </span><br><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'"> </span><br><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'"> Прийшла любов непрохана й неждана — Ну як мені за нею не піти? </span><br><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'"> В. Симоненко </span><br><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'"> </span><br><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'"> Скільки років кохаю, </span><br><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'"> а закохуюсь в тебе щодня. </span><br><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'"> Л. Костенко </span><br><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'"> </span><br><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'"> Так ніхто не кохав. Через тисячі літ лиш приходить подібне кохання. </span><br><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'"> В. Сосюра </span><br><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'"> </span><br><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'"> </span><br><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'"> Якщо скільки голів — стільки й умів, то скільки сердець — стільки родів любові. </span><br><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'"> Л. Толстой </span><br><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'"> </span><br><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'"> Якщо тебе ніколи не охоплювало бажання обійняти всю землю, прилащити бродячого собаку, підняти із землі зірваний листок і цілувати його — значить, ти ще не любив. </span><br><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'">&nbsp;</span><span style="font-family:'Times New Roman'"> Г. Тютюнник</span>
-</p>
+Про виховання, про труд. Гроші і професію </span><br><br>
+
+Жити — значить працювати. Праця є життя людини. </span><br>
+
+ Вольтер </span><br>
+
+ </span><br>
+
+ Ліниві завжди бувають людьми посередніми. </span><br>
+
+ Вольтер </span><br>
+
+ </span><br>
+
+ Школа — це майстерня, де формується думка підростаючого покоління, треба міцно тримати її в руках, якщо не хочеш випустити з рук майбутнє. </span><br>
+
+ А. Барбюс </span><br>
+
+ </span><br>
+
+ ...Немає настільки поганої людини, яку б добре виховання не зробило кращою. </span><br>
+
+ В. Бєлінський </span><br>
+
+ </span><br>
+
+ Чи не від того люди мордують дітей, а інколи й дорослих, що їх так важко виховувати, а шмагати так легко? Чи не помщаємося ми покаранням за нашу нездатність? </span><br>
+
+ О. Герцен </span><br>
+
+ </span><br>
+
+ Усяка школа славна не числом, а славою своїх учнів. </span><br>
+
+ М. Пирогов </span><br>
+
+ </span><br>
+
+ Дітей не відлякаєш суворістю, вони не переносять тільки брехні. </span><br>
+
+ О. Толстой </span><br>
+
+ </span><br>
+
+ Люди, розбещені в дитинстві, зберігають особливий відбиток до кінця життя. </span><br>
+
+ І. Тургенев </span><br>
+
+ </span><br>
+
+ Вихователь не чиновник, а якщо він чиновник, то він не вихователь. </span><br>
+
+ К. Ушинський </span><br>
+
+ </span><br>
+
+ Дитина, яка терпить менше образ, виростає людиною, яка більше усвідомлює свою гідність. </span><br>
+
+ М. Чернишевський </span><br>
+
+ </span><br>
+
+ Тоді людина стає кращою, коли ви покажете їй, яка вона є. </span><br>
+
+ А. Чехов </span><br>
+
+ </span><br>
+
+ Хто навчає і не виконує того, чого навчає, схожий на курку, яка, маючи крила, не літає. </span><br>
+
+ Східна мудрість </span><br>
+
+ </span><br>
+
+ Під купою грошей може бути похована людська душа. </span><br>
+
+ Н. Готорн </span><br>
+
+ </span><br>
+
+ Будь-яка влада розбещує, але надмірна розбещує абсолютно. </span><br>
+
+ Ектон </span><br>
+
+ </span><br>
+
+ Бідність не вада, та від неї ще більша досада. </span><br>
+
+ Французьке прислів’я </span><br>
+
+ </span><br>
+
+ Багатством живиться лише тіло, а душу звеселяє споріднена праця. </span><br>
+
+ Г. Сковорода </span><br>
+
+ </span><br>
+
+ І труд, і піт благословен. </span><br>
+
+ М. Рильський </span><br>
+
+ </span><br>
+
+ І я бачив — нема чоловікові кращого, як ділам своїм радіти, бо це доля його! </span><br>
+
+ Старий Завіт (Екл. 3. 22) </span><br>
+
+ </span><br>
+
+ Кожна людина народжується для якогось діла. </span><br>
+
+ Е. Гемінґвей </span><br>
+
+ </span><br>
+
+ Лиш праця світ таким, як є, створила. Лиш в праці варто і для праці жить. </span><br>
+
+ І. Франко </span><br>
+
+ </span><br>
+
+ Праця пом'якшує горе. </span><br>
+
+ Цицерон </span><br>
+
+ </span><br>
+
+ Соромно людині, якщо їй радять у працелюбності наслідувати мурашку, подвійно соромно, якщо вона цієї поради не дотримується. </span><br>
+
+ Талмуд </span><br>
+
+ </span>
+
+ </span><br>
+
+ Багатства і почесті непевні і короткочасні. </span><br>
+
+ Латинське прислів’я </span><br>
+
+ </span><br>
+
+ Бідність є вчителем у всіх ремеслах. </span><br>
+
+ Плавт </span><br>
+
+ </span><br>
+
+ Забудь часи нужди, але не забувай того, чого вони тебе навчили. </span><br>
+
+ С. Геснер </span><br>
+
+ </span><br>
+
+ Люди, які вважають, що гроші спроможні все зробити, самі спроможні все зробити за гроші. </span><br>
+
+ П. Буаст </span><br>
+
+ </span><br>
+
+ Хоч би як ти пишався своїм багатством, та воно не змінить твоєї вартості. </span><br>
+
+ Горацій </span><br>
+
+ </span><br>
+
+ Часто і під благеньким плащем криється мудрість. </span><br>
+
+ Цицерон </span><br>
+
+ </span><br>
+
+ Виховання — велика справа: воно вирішує долю людини. </span><br>
+
+ В. Бєлінський </span><br>
+
+ </span><br>
+
+ Для вченої й освіченої людини жити — значить мислити. </span><br>
+
+ Цицерон </span><br>
+
+ </span><br>
+
+ Знання складається із дрібних крихт щоденного досвіду. </span><br>
+
+ Д. Писарев </span><br>
+
+ </span><br>
+
+ Із найбільш диких лошат виходять найкращі коні, аби тільки їх як слід виховати й виїздити. </span><br>
+
+ Плутарх </span><br>
+
+ </span><br>
+
+ Крапля довбає камінь не силою, а частим падінням, так людина стає вченою не силою, а частим читанням. </span><br>
+
+ Овідій </span><br>
+
+ </span><br>
+
+ Неможливо виростити повноцінну людину без виховання в ній почуття Прекрасного. </span><br>
+
+ Р. Тагор </span><br>
+
+ </span><br>
+
+ Освіта — скарб; праця — ключ до нього. </span><br>
+
+ П. Буаст </span><br>
+
+ </span><br>
+
+ Учітеся, брати мої, думайте, читайте. </span><br>
+
+ Т. Шевченко </span><br>
+
+ </span><br>
+
+ Чим більше знаєш, тим більше можеш. </span><br>
+
+ Е. Абу </span><br>
+
+ </span><br>
+
+ Я знаю, що нічого не знаю. </span><br>
+
+ Сократ </span><br>
+
+ </span><br>
+
+ Ніколи не соромся запитувати про те, чого не знаєш. </span><br>
+
+ Арабське прислів’я </span><br>
+
+ </span><br>
+
+ Після хліба найважливіше для народу — школа. </span><br>
+
+ Ж. Дантон </span><br>
+
+ </span><br>
+
+ Учень ніколи не перевершить учителя, якщо бачить у ньому зразок, а не суперника. </span><br>
+
+ В. Бєлінський </span><br>
+
+ </span><br>
+
+ Якщо ви володієте знанням, дайте іншим запалити від нього свої світильники. </span><br>
+
+ Т. Фулпер </span><br>
+
+ </span><br>
+
+ Книги — кораблі думки, які мандрують по хвилях часу і бережно несуть свій дорогоцінний вантаж від покоління до покоління. </span><br>
+
+ Ф. Бекон </span><br>
+
+ </span><br>
+
+ Книги — морська глибина, Хто в них пірне аж до дна, Той, хоч і труду мав досить, Дивнії перли виносить. </span><br>
+
+ І. Франко </span><br>
+
+ </span><br>
+
+ </span><br>
+
+ &nbsp;</span><br>
+
+Гіппократ </span><br>
+
+ </span><br>
+
+ &lt;...&gt; світять крізь пітьму науки дива... </span><br>
+
+ Леся Українка </span><br>
+
+ </span><br>
+
+ Бо пам'ятайте, що на цій планеті, Відколи сотворив її пан Бог, Ще не було епохи для поетів, Але були поети для епох. </span><br>
+
+ Л. Костенко </span><br>
+
+ </span><br>
+
+ Ніякий пророк не приймається у своїй батьківщині. </span><br>
+
+ Лука (гл. 5, cm. 24) </span><br>
+
+ </span><br>
+
+ Якщо хворому після розмови з лікарем не стає легше, то це не лікар. </span><br>
+
+ В. Бехтерев </span><br>
+
+ </span><br>
+
+ Професія лікаря — це подвиг, вона вимагає самовідданості, чистоти душі і чистоти помислів. </span><br>
+
+ А. Чехов </span><br>
+
+ </span><br>
+
+ Якщо вчитель поєднує в собі любов до справи і до учня, він — досконалий учитель. </span><br>
+
+ Л. Толстой</span>
+
+
+Кохання має свої закони розвитку, свій вік, як життя людське. У нього є своя розкішна весна, своє спекотне літо, нарешті, осінь, яка для одних буває теплою, світлою і родючою, для інших — холодною, гнилою і безплідною. </span><br>
+
+В. Бєлінський </span><br>
+
+ </span><br>
+
+ Немає нічого святішого і безкориснішого од любові матері; будь-яка прив'язаність, всяка прихильність, всяка пристрасть або слабка, або своєкорисна у порівнянні з нею. </span><br>
+
+ В. Бєлінський </span><br>
+
+ </span><br>
+
+ Тільки закоханий має право на звання людини. </span><br>
+
+ О. Блок </span><br>
+
+ </span><br>
+
+ Любов ніколи не вимагає, вона завжди дає. Любов завжди страждає, ніколи не виражає протесту, ніколи не мстить за себе. </span><br>
+
+ Мохандас Ганді </span><br>
+
+ </span><br>
+
+ Від кохання до жінки народилося все прекрасне на землі. </span><br>
+
+ Максим Горький </span><br>
+
+ </span><br>
+
+ Коли любиш когось, ти його любиш, і якщо нічого більше не можеш йому дати, ти все-таки даєш йому любов. </span><br>
+
+ Дж. Оруелл </span><br>
+
+ </span><br>
+
+ Не будемо говорити про любов, бо ми досі не знаємо, що це таке. </span><br>
+
+ К. Паустовський </span><br>
+
+ </span><br>
+
+ ...Закохатися не означає кохати... Закохатися можна і ненавидячи. </span><br>
+
+ Ф. Достоєвський </span><br>
+
+ </span><br>
+
+ Материнські руки — втілення ніжності; дітям добре спиться на цих рухах. </span><br>
+
+ В. Гюго </span><br>
+
+ </span><br>
+
+ Звеличимо жінку — Матір, чия любов не знає перешкод, чиєю груддю викоханий увесь світ! Усе прекрасне в людині — від променів сонця і від молока Матері, ось що насичує нас любов'ю до життя!</span><br>
+
+ Максим Горький </span><br>
+
+ </span><br>
+
+ Любов і дружба — взаємна луна; вони дають стільки, скільки беруть. </span><br>
+
+ О. Герцен </span><br>
+
+ </span><br>
+
+ Горе серцеві, що не кохало змолоду! </span><br>
+
+ І. Тургенев </span><br>
+
+ </span><br>
+
+ Любов до батьків — основа всіх чеснот. </span><br>
+
+ Цицерон </span><br>
+
+ </span><br>
+
+ Мати — це ім'я Бога на устах і в серцях маленьких дітей. </span><br>
+
+ В. Теккерей </span><br>
+
+ </span><br>
+
+ Можна вибрать друга і по духу брата, Та не можна рідну матір вибирати. </span><br>
+
+ В. Симоненко </span><br>
+
+ </span><br>
+
+ Страшнішого горя нема, ніж те, коли старість мати в домівці стрічає сама. </span><br>
+
+ В. Симоненко </span><br>
+
+ </span><br>
+
+ &lt;...&gt; хто матір забуває, Того Бог карає. </span><br>
+
+ Т. Шевченко </span><br>
+
+ </span><br>
+
+ Владна над люблячим тільки любов! </span><br>
+
+ Й.-В. Ґете </span><br><br>
+
+ Десь на дні мого серця заплела дивну казку любов. </span><br>
+
+ П. Тичина </span><br>
+
+ </span><br>
+
+ З тобою жити на одній землі, — яке велике щастя! </span><br>
+
+ Олександр Олесь </span><br>
+
+ </span><br>
+
+ Мало — бачити. Мало — розуміти. Треба любить. Немає загадки таланту. Є вічна загадка Любові. </span><br>
+
+ Г. Тютюнник </span><br>
+
+ </span><br>
+
+ Напитись голосу твого, того закоханого струму, тієї радості і суму, чаклунства дивного того. </span><br>
+
+ Л. Костенко </span><br>
+
+ </span><br>
+
+ Прийшла любов непрохана й неждана — Ну як мені за нею не піти? </span><br>
+
+ В. Симоненко </span><br>
+
+ </span><br>
+
+ Скільки років кохаю, </span><br>
+
+ а закохуюсь в тебе щодня. </span><br>
+
+ Л. Костенко </span><br>
+
+ </span><br>
+
+ Так ніхто не кохав. Через тисячі літ лиш приходить подібне кохання. </span><br>
+
+ В. Сосюра </span><br>
+
+ </span><br>
+
+ </span><br>
+
+ Якщо скільки голів — стільки й умів, то скільки сердець — стільки родів любові. </span><br>
+
+ Л. Толстой </span><br>
+
+ </span><br>
+
+ Якщо тебе ніколи не охоплювало бажання обійняти всю землю, прилащити бродячого собаку, підняти із землі зірваний листок і цілувати його — значить, ти ще не любив. </span><br><span 
 </div>*/

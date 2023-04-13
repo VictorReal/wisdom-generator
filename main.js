@@ -25,3 +25,25 @@ handleCopyClick.addEventListener('click', () => {
 
   alert(`Quote by ${author} copied to clipboard!`);
 });
+
+//
+const changeColorsBtn = document.getElementById('change-colors-btn');
+const background = document.querySelector('.background');
+const audio = document.getElementById("myAudio");
+
+const navElement = document.querySelector("nav");
+const mainElement = document.querySelector("main");
+const gitElement = document.querySelector("#git_btn");
+const cvElement = document.querySelector("#cv_btn");
+const wgElement = document.querySelector("#prj_btn");
+
+changeColorsBtn.addEventListener('click', function() {
+  background.classList.remove('hidden')
+  audio.play();
+  navElement.style.backgroundColor = "#0057b7";
+  mainElement.style.backgroundColor = "#0057b7";  
+  gitElement.style.backgroundColor = "#0066cc";  
+  cvElement.style.backgroundColor = "#0066cc";
+  wgElement.style.backgroundColor = "#0066cc";
+  changeColorsBtn.style.backgroundColor = "#0066cc";
+});
