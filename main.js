@@ -40,10 +40,10 @@ const wgElement = document.querySelector("#prj_btn");
 changeColorsBtn.addEventListener('click', function() {
   background.classList.remove('hidden')
   audio.play();
-  navElement.style.backgroundColor = "#0057b7";
-  mainElement.style.backgroundColor = "#0057b7";  
-  gitElement.style.backgroundColor = "#0066cc";  
-  cvElement.style.backgroundColor = "#0066cc";
-  wgElement.style.backgroundColor = "#0066cc";
-  changeColorsBtn.style.backgroundColor = "#0066cc";
+  navElement.style.backgroundColor = "darkred";
+  mainElement.style.backgroundColor = "darkred";  
+  gitElement.style.backgroundColor = "darkred";  
+  cvElement.style.backgroundColor = "darkred";
+  wgElement.style.backgroundColor = "darkred";
+  changeColorsBtn.style.backgroundColor = "darkred";
 });
